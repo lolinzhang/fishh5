@@ -1,0 +1,34 @@
+{
+    "project_type": "javascript",
+
+    "debugMode" : 1,
+    "showFPS" : true,
+    "frameRate" : 60,
+    "id" : "gameCanvas",
+    "renderMode" : 0,
+    "engineDir":"frameworks/cocos2d-html5",
+
+    "modules" : ["cocos2d"],
+
+    "jsList" : [
+        "src/resource.js",
+        "src/global.js",
+        "src/tool.js",
+        "src/domain.js",
+        "src/db.js",
+        "src/app.js",
+        "src/collision.js",
+        "src/loading.js",
+        "src/menu.js",
+        "src/game.js",
+        "src/bg.js",
+        "src/top.js",
+        "src/ruler.js",
+        "src/fish.js",
+        "src/test.js",
+        "src/path.js",
+        "src/fire.js",
+        "src/sound.js",
+        "src/achieve.js"
+    ]
+}

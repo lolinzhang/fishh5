@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, FishActivity!</string>
+    <string name="app_name">Wow Fish</string>
+
+  <string name="PRICEUNIT">$</string>
+    
+    <string name="sorry">sorry</string>
+    <string name="networkUnavailable">Network is not available</string>
+    <string name="cantCharge">Can't start In-App Purchase, please check your device setting</string>
+    <string name="moreGameName">New Games</string>
+    <string name="moreGameTitle">90123 mobile games</string>
+    <string name="backButton">Back</string>
+    <string name="buySuccess">Charge successfully</string>
+    <string name="buyCancel">Charge Canceled</string>
+    <string name="buyFail">Charge Fail, please try later.</string>
+    <string name="buySuccessCont">You buy %s %s</string>
+    <string name="buySuccessContFish">You buy %s</string>
+    <string name="nameCoin">coins</string>
+    <string name="nameStarfish">starfish</string>
+    <string name="nameLightning">lightning Storm</string>
+    <string name="nameSorpedos">torpedo</string>
+    <string name="namePenguin">Penguin</string>
+    <string name="nameCat">cat</string>
+    <string name="nameSeal">seal</string>
+    <string name="nameBear">bear</string>
+    <string name="nameAtom">Atomic Gun</string>
+    <string name="nameDolphin">Dolphin</string>
+    <string name="nameGlobefish">Globefish</string>
+    
+    <string name="buyByCoinSure">Do you want cost %d coins to buy the %s?</string>
+    
+    <string name="notification">The mermaid is inviting you to visit her house coz she is missing you so much!</string>
+    
+    <string name="gradeTitle">While the fishing boat is leaving the port, do you want to leave your nautical oath on the App Store?</string>
+    <string name="gradeNow">Rate Now</string>
+    <string name="gradeLater">Rate Later</string>
+    <string name="gradeNoShow">No More Prompt</string>
+    
+    <string name="imgShareWait">Data is sending, please wait.</string>
+    <string name="sysCoinDesc">Mermaid coyly left %d gold behind since you chose leaving game behind.</string>
+    <string name="imgShareSuccess">Shared successfully</string>
+    <string name="imgShareText">Wow Fish!</string>
+    
+    <string name="act_pet_code_not_used">Gift code cannot be used, you already have the %s.</string>
+   
+    <string name="act_lightning_code_send_ok">The Gift code used successfully, you gain %d Lightning Storm</string>
+    <string name="pause_path">images\//pause\//en\//</string>
+    <string name="alittlmemory">Storage Card Space Low</string>
+  
+    <string name="twitter_text">No fish, No money; No money No fun. Hey, Come on! Let\'s play the game, make some money and make our life fun.</string>
+    <string name="twitter_url">https://market.android.com/details?id=com.sg.android.fish</string>
+
+    <string name="facebook_description">Funny Fishing Game</string>
+    <string name="facebook_name">Wow Fish</string>
+    <string name="facebook_link">https://market.android.com/details?id=com.sg.android.fish</string>
+    <string name="facebook_caption">No fish, No money; No money No fun. Hey, Come on! Let\'s play the game, make some money and make our life fun.</string>
+
+
+    <string name="pet_exchange">Pet activate</string>
+     <string name="pet_code">Confirm to activate this pet?</string>
+     <string name="pet_cannot_exchange">Unfortunately, you do not have enough achievement points.</string>
+     <string name="pet_name">Pet</string> 
+     <string name="pet_lv">Level</string>
+     <string name="pet_rate_range">Level</string>
+     <string name="pet_coast_achievePoints">Activation</string>
+     <string name="pet_buy">Price</string>
+     <string name="pet_special_ability">Skill</string>
+     <string name="penguin_name">Penguin</string>
+     <string name="cat_name">Cat</string>
+     <string name="seal_name">Seal</string>
+     <string name="bear_name">Polar Bear</string>
+     <string name="pet_rate_range_int">Lv.1-Lv.10</string>
+    <string name="pet_coast_achievePoints_int1">%d</string>
+    <string name="pet_coast_achievePoints_int2">（%d can use）</string>
+     <string name="penguin_special_ability">increasing exp of leveling up by 1%-5%</string>
+     <string name="penguin_special_ability_now">increasing exp of leveling up by%.1f%%</string>
+     <string name="cat_special_ability">incresing speed of Laser bar by 1%-5%</string>
+     <string name="cat_special_ability_now">incresing speed of Laser bar by%.1f%%</string>
+      <string name="seal_special_ability">increasing 2-20 golden coins every 60 seconds automatically</string>
+     <string name="seal_special_ability_now">increasing %.1f golden coins every 60 seconds automatically</string>
+      <string name="bear_special_ability">increasing success fishing rate by 5%-50%</string>
+     <string name="bear_special_ability_now">increasing success fishing rate by%.1f%%</string>
+     
+     <string name="act_title">Gift Code</string>
+     <string name="act_input">Please input gift code:</string>
+ 	 <!-- 
+ 	 <string name="act_code">Comment,Bug,Suggest for Gain. <font size="20" color="#3366FF">Following Us</font></string>
+ 	  -->
+ 	 <string name="act_code">You can get golds or items by gift code, and you can get gift code in our microblog</string>
+ 	 
+     <string name="act_weibo">http://twitter.com/90123mobile</string>
+    <string name="act_code_used">The Gift Code has been used</string>
+    <string name="act_code_noexit">The Gift Code is not exist</string>
+    <string name="act_code_send_ok">The Gift Code used successfully,you gain %d Golds</string>
+    <string name="act_atom_code_send_ok">The Gift Code used successfully, you gain %d Atomic Guns</string>
+    <string name="act_haixing_code_send_ok">The Gift Code used successfully,you gain%d lucky starfishes</string>
+    <string name="act_yulei_code_send_ok">The Gift Code used successfully,you gain %d torpedos</string>
+    <string name="act_level_code_send_ok">The Gift Code used successfully,level up to %d</string>
+    <string name="act_pet_send_ok">The Gift Code used successfully, you gain %s.</string>
+     <string name="act_code_connfail">Connection failed，gift code can not be used.</string>
+    <string name="act_fish_send_ok">The Gift Code used successfully, you activated %s.</string>
+     
+    <string name="act_code_httperr">connection error</string>
+    
+    <string name="update_version">There is a new version,go and have a look? \n</string>
+    
+       <!-- 首页更多游戏 -->
+    <string name="more">https://market.android.com/search?q=SunGround+Co.,+Ltd</string>
+      <!-- 更新游戏 下载 -->
+    <string name="update_game_url">market://details?id=com.sg.android.fish</string>
+    
+     <string name="notify">You got 200 golds.</string>
+    
+    <!-- 首页，设置页 路径 -->
+    <string name="path_index">images\//en\//</string>
+       <!-- 购买金币页 路径 -->
+    <string name="path_pay">images\//buy\//en\//</string>
+    <!-- 帮助 路径 --> 
+   <string name="path_help">images\//help\//en\//</string>
+      <!-- 任务 路径 --> 
+    <string name="task_path">images\//task\//en\//</string>
+     <!-- 宠物 路径 --> 
+    <string name="pet_path">images\//pet\//en\//</string>
+    <string name="lang">en</string>
+    
+    <!-- 得到200金币通知 -->
+    <string name="notify_enter">Enter</string>
+    <string name="notify_known">I Known</string>
+    
+    <string name="partnerHint">"partner"</string>
+	<string name="sellerHint">"seller"</string>
+	<string name="out_trade_noHint">"out_trade_no"</string>
+	<string name="subjectHint">"subject"</string>
+	<string name="bodyHint">"body"</string>
+	<string name="total_feeHint">"total_fee"</string>
+	<string name="notify_urlHint">"notify_url"</string>
+	<string name="charsetHint">"charset"</string>
+	<string name="signTypeHint">"signType"</string>
+	
+	<string name="confirm_install_hint">"安装提示"</string>	
+	<string name="confirm_install">"为保证您的交易安全，需要您安装支付宝安全支付服务，才能进行付款。%s点击确定，立即安装。"</string>
+	
+	
+	<string name="Ensure">OK</string>
+	<string name="Cancel">Cancel</string>
+	<string name="check_sign_failed">您的订单信息已被非法篡改。</string> 
+	
+    <string name="achievecomplete">Completed: </string> 
+    <string name="achievestatus">%d/%d total, %d/%d points</string>
+    <string name="achievestime">Game Time：%d day%d hour </string> 
+    <string name="earnedgolds">Coin Gaint：%d</string> 
+    <string name="spentgolds">Cosume Coin：%d</string> 
+      <!-- 任务 -->
+    <string name="taskfreshtime">Retime   %s%s</string> 
+	 <string name="taskneed">Request </string> 
+     <string name="taskcompletestatus">Status </string> 
+     <string name="taskaward">Reward </string> 
+     <string name="taskfreshdesc">The task will be reset in 1 hours after completion</string>
+     
+     
+     <string name="taskincomplete">Incompleted </string>
+     <string name="taskcompleted">Success</string>
+     <string name="taskfail">Fail </string>
+     
+      <string name="screenshot">Screenshot has been saved in folder "wowfish",upload to your facebook or twitter and share it with your friends!</string>
+      <string name="nosdcard">SDCard does not exist or write protected </string>
+      
+      <string name="sdcard">sdcard</string>
+      <string name="ok">OK</string>
+      <string name="close">CLOSE</string>
+      <string name="updateversion">update version</string>
+      <string name="send">SEND</string>
+      
+      <string name="refresh_task_coins">Reset the task requires  %d  coins</string>
+      <string name="refresh_task_progress">Task in progress,Reset the task requires  %d  coins,Are you sure to reset?</string>
+      <string name="refresh_task_coins_notenough">Sorry,Your coin is not enough</string>
+       <string name="refresh_task_rest">Reset the task requires  %d  golds, Are you sure ?</string>
+         <!-- 快捷方式 -->
+      <string name="shortcut_add">Add icon to mian screen</string>
+      <string name="shortcut_title">Quit Wow Fish</string>
+      <string name="shortcut_quit">Are you sure you want to exit?</string>
+    
+    <!-- 任务数据 -->
+    <string name="taskstr_1_title">Price of Getting Drunk</string>
+<string name="taskstr_1_desc">The aquarium fish in the pub's aquarium had been caught, roasted and eaten by a group of drunkards! Because of this crime, the pub's boss Ajax threw a fit and swore that he would never sell any alchohol to those drunkards without a reasonable compensation. %sHence, those poor drunk guys asked me to catch 30 small zebra fish for Ajax. Could you help me with this task? The drunkards would be willing to pay a good price for the fish since they have been missing Ajax's beers for so many days.</string>
+<string name="taskstr_1_target">Catch 30 small zebra fish(one gold each)</string>
+
+<string name="taskstr_2_title">A Bowl of Cuttlefish Tagliatelle</string>
+<string name="taskstr_2_desc">Have you heard about Loe? He is a very good chef in a top restaurant, especially famous for his stir fry eggplant. %sYesterday, he told me that cuttlefish is incredibly tasty and richly nutritious, and promised me that he would make me a bowl of cuttlefish tagliatelle if I give him 2 cuttlefish. I couldn't believe I totally forgot this thing! I have to go to Loe soon, could you please help me catch 2 cuttlefish in 8 minutes? I will surely pay you back!</string>
+<string name="taskstr_2_target">Catch 2 cuttlefish in 5 minutes (7 golds each)</string>
+
+<string name="taskstr_3_title">Quirky Cat Food</string>
+<string name="taskstr_3_desc">Auntie Maris in the grocery store has a very precious persian cat. This is a very weird cat because it only eats a kind of green small fish. Normally Auntie Maris  buys the fish from the fish shop, but the shop is on vacation today. Could you help Auntie Maris catch 20 small green fish?</string>
+<string name="taskstr_3_target">Catch 20 small green fish(4 golds each)</string>
+
+<string name="taskstr_4_title">Coral Scavenger</string>
+<string name="taskstr_4_desc">Remember Ajax? The boss of the pub. He has been worrying about cleaning up the big coral in his aquarium. He asked me for a good solution, so that he doesn't have to clean the coral himself every other day. I think some coral fish would help, because this kind of fish eats plankton in the ocean, which could clean up the planktons around the coral in the aquarium. %sCould you please help Ajax catch 25 red coral fish?</string>
+<string name="taskstr_4_target">Catch 25 read coral fish(2 golds each)</string>
+
+<string name="taskstr_5_title">Secrets of Clownfish</string>
+<string name="taskstr_5_desc">Do you know that clownfish usually live with anemone in the ocean? Anemones' poisonous tentacles prevent most fish from getting closer, but the clownfishs' special slime protects themselves from affected by anemones. %sUnfortunately, a poor guy got hurt by an anemone today, and Doctor Wang in the hospital needs 5 clownfish to study the composition of the slime. Urgent! Could you please catch 5 clownfish in 8 minutes for us?</string>
+<string name="taskstr_5_target">Catch 5 clownfish in 8 minutes (10 golds each)</string>
+
+<string name="taskstr_6_title">Julia and the Mermaid</string>
+<string name="taskstr_6_desc">Julia is a dreamy girl in a flower shop. She has been dreaming of what a real mermaid looks like. Can you catch a mermaid? To be honest, I really want to see a mermaid myself. I know it's already very lucky to see a mermaid with our own eyes, not mentioning how hard it is to catch one.</string>
+<string name="taskstr_6_target">Catch one mermaid(120 golds each)</string>
+
+<string name="taskstr_7_title">Inexplicable Rewards</string>
+<string name="taskstr_7_desc">Peter in a metal shop is very famous for making irons. More interestingly, you don't have to pay him money.I asked him today to make a knife for me, and he asked for 10 big blue fish in return. %sI've heard that those big blue fish only live in deep ocean and they are pretty hard to catch. Can you please help me with this?</string>
+<string name="taskstr_7_target">Catch 10 big blue fish(30 golds each)</string>
+
+<string name="taskstr_8_title">Lethal Jellyfish</string>
+<string name="taskstr_8_desc">Jellyfish is a kind of beautiful sea animal, but its tentacles are covered with nematocysts, which are like poisonous filaments that spray venom. Prey will be paralyzed quickly after getting attacked; some would even get killed. Also, Jellyfish will never let it go if they run into any prey.%sRecently, there have been several cases about jellyfish attack, so that the police office is offering a reward for catching jellyfish. Wanna try? Just catch 4 jellyfish in 8 minutes!</string>
+<string name="taskstr_8_target">Catch 4 jellyfish in 8 minutes (35 golds each)</string>
+
+<string name="taskstr_9_title">sweet and sour fried croak</string>
+<string name="taskstr_9_desc">Yesterday, I went to a restaurant and ordered a dish called "sweet and sour fried croak". Yum yum yum, it tasted really good. After dinner, I heard that this dish was made of large yellow croaks in the sea. Large yellow croak's meat is very delicious, its bladder can be made into a delicacy called "fish maw" by dry processing, and its liver can be made into cod-liver oil or other medicines. So how about helping me catch 10 large yellow croaks? Remember not to drink any tea if you eat the large yellow croak. It may also hurt your health if you eat large yellow croak with mustard wheat. Additionally, asthmatic patients and people with allergies should not eat too many large yellow croak either.</string>
+<string name="taskstr_9_target">Catch 10 big yellow fish(20 golds each)</string>
+
+<string name="taskstr_10_title">Teeth of the Anglerfish</string>
+<string name="taskstr_10_desc">Brother Mace: my workshop needs to make some materials with the teeth of anglerfish, a kind of fish with "lamps" over their heads. Can you help me catch some? I only want 5 anglerfish this time. %sPlease mind the sharp teeth of this kind of fish. Don't be biten by them when you catch them!</string>
+<string name="taskstr_10_target">Catch 5 anglerfish(50 golds each)</string>
+
+<string name="taskstr_11_title">Gigantic comb</string>
+<string name="taskstr_11_desc">Brother Mace: I received a very strange order today: someone was requesting for a gigantic comb. The customer needs the comb in a very short time, but we can only use the shells of the sea turtles to make our materials for now. Can you help me catch 4 turtles in 5 minutes? %sI will be very confident about this order with your help!</string>
+<string name="taskstr_11_target">Catch 4 turtle swith your NET in 5 minutes(40 golds each)</string>
+
+<string name="taskstr_12_title">Price of Getting Drunk</string>
+<string name="taskstr_12_desc">The aquarium fish in the pub's aquarium had been caught, roasted and eaten by a group of drunkards! Because of this crime, the pub's boss Ajax threw a fit and swore that he would never sell any alchohol to those drunkards without a reasonable compensation. %sHence, those poor drunk guys asked me to catch 60 small zebra fish for Ajax. Could you help me with this task? The drunkards would be willing to pay a good price for the fish since they have been missing Ajax's beers for so many days.</string>
+<string name="taskstr_12_target">Catch 60 small zebra fish(one gold each)</string>
+
+<string name="taskstr_13_title">A Bowl of Cuttlefish Tagliatelle</string>
+<string name="taskstr_13_desc">Have you heard about Loe? He is a very good chef in a top restaurant, especially famous for his stir fry eggplant. %sYesterday, he told me that cuttlefish is incredibly tasty and richly nutritious, and promised me that he would make me a bowl of cuttlefish tagliatelle if I give him 5 cuttlefish. I couldn't believe I totally forgot this thing! I have to go to Loe soon, could you please help me catch 5 cuttlefish in 8 minutes? I will surely pay you back!</string>
+<string name="taskstr_13_target">Catch 5 cuttlefish in 8 minutes (7 golds each)</string>
+
+<string name="taskstr_14_title">Quirky Cat Food</string>
+<string name="taskstr_14_desc">Auntie Maris in the grocery store has a very precious persian cat. This is a very weird cat because it only eats a kind of green small fish. Normally Auntie Maris  buys the fish from the fish shop, but the shop is on vacation today. Could you help Auntie Maris catch 40 small green fish?</string>
+<string name="taskstr_14_target">Catch 40 small green fish(4 golds each)</string>
+
+<string name="taskstr_15_title">Coral Scavenger</string>
+<string name="taskstr_15_desc">Remember Ajax? The boss of the pub. He has been worrying about cleaning up the big coral in his aquarium. He asked me for a good solution, so that he doesn't have to clean the coral himself every other day. I think some coral fish would help, because this kind of fish eats plankton in the ocean, which could clean up the planktons around the coral in the aquarium. %sCould you please help Ajax catch 60 red coral fish?</string>
+<string name="taskstr_15_target">Catch 60 read coral fish(2 golds each)</string>
+
+<string name="taskstr_16_title">Secrets of Clownfish</string>
+<string name="taskstr_16_desc">Do you know that clownfish usually live with anemone in the ocean? Anemones' poisonous tentacles prevent most fish from getting closer, but the clownfishs' special slime protects themselves from affected by anemones. %sUnfortunately, a poor guy got hurt by an anemone today, and Doctor Wang in the hospital needs 12 clownfish to study the composition of the slime. Urgent! Could you please catch 12 clownfish in 8 minutes for us?</string>
+<string name="taskstr_16_target">Catch 12 clownfish in 8 minutes (10 golds each)</string>
+
+<string name="taskstr_17_title">Julia and the Mermaid</string>
+<string name="taskstr_17_desc">Julia is a dreamy girl in a flower shop. She has been dreaming of what a real mermaid looks like. Can you catch a mermaid? To be honest, I really want to see a mermaid myself. I know it's already very lucky to see a mermaid with our own eyes, not mentioning how hard it is to catch one.</string>
+<string name="taskstr_17_target">Catch one mermaid(120 golds each)</string>
+
+<string name="taskstr_18_title">Catch the Shark</string>
+<string name="taskstr_18_desc">Shark is one of the most dangerous animals in the ocean. Incidents of hammerhead sharks attacking humans happen every year. Recently, several hammerhead sharks appear near our sea area, so the police office is offering incentives for catching the sharks. Can you catch 2 sharks in 10 minutes? %sHammerhead sharks have their eyes on their weird heads so that they can see a better view in the ocean. Since they can see the situation behind them just by shaking their heads, plus the fact that they have very sensitive olfactory sensation, you have to be really careful to catch them.</string>
+<string name="taskstr_18_target">Catch 2 sharks in 10 minutes (100 golds each)</string>
+
+<string name="taskstr_19_title">Dangerous Dorado</string>
+<string name="taskstr_19_desc">Peter: my metal shop needs to make some spears recently, but we are short of raw materials. I think of the sharp maxillae of doradoes to be the materials. However, catching doradoes is pretty dangerous, and I may not be able to pay you enough for your fish. Still, for the tasty meat of the doradoes, I found Chef. Wang from the restaurant to buy 2 doradoes from you together. Can you help us with this?</string>
+<string name="taskstr_19_target">Catch 2 doradoes(70 golds each)</string>
+
+<string name="taskstr_20_title">Are Devil Fish Real Devils?</string>
+<string name="taskstr_20_desc">Devil fish are also called "manta rays". They are named as devil only because of their scary appearance. Although they look big, they are not aggressive to humans；and they love human touch.However, don't think they are easily manipulated. they can be very dangerous because of their sharp venomous spines at the back. %sThere is a devil fish in the aquarium, and it seems very lonely. Could you please bring 4 more devil fish to accompany the poor little thing in the aquarium?</string>
+<string name="taskstr_20_target">Catch 4 devil fish(60 golds each)</string>
+
+<string name="taskstr_21_title">Abyssal Anglerfish</string>
+<string name="taskstr_21_desc">Do you know that anglerfish is also called "The Goddess with the Lamp" because only female anglerfish have the lamp over the head. Male anglerfish are often attached to the female ones all their lives, and female anglerfish hunt for food with the lamp as the bait. The lamps illuminate the surroundings at the bottom of the sea, so that small fish will be attracted, however, when anglerfish encounter dangers, they will put the "lamps" in their mouths. %sBrother Mace in the workshop want to study on how the "lamp" illuminates. Could you please catch 6 anglerfish in 8 minutes for him?</string>
+<string name="taskstr_21_target">Catch 6 anglerfish in 8 minutes(50 golds each)</string>
+
+<string name="taskstr_22_title">Electricity Turtle Mount</string>
+<string name="taskstr_22_desc">Auntie Maris in the grocery store suddenly came up with an idea of catching a turtle and training it to be a mount, so that she could travel in the ocean. I just think she got too obssessive in the World of Warcraft. %sBut to be honest, I do hope to see if a turtle can truly be trained to be a good mount. So now, please catch 12 turtles, so that I may be able to have a turtle mount myself!</string>
+<string name="taskstr_22_target">Catch 12 turtles(40 golds each)</string>
+
+<string name="taskstr_23_title">A Bottle of Rum</string>
+<string name="taskstr_23_desc">Yesterday when I was drinking in the pub, I argued with the waitress Rena. She insisted that the tails of the mermaids would become two beautiful legs on the land, but I don't believe her. Later, we gamboled that the winner would get a bottle of rum. We both need to count on you to catch 2 mermaids in 15 minutes, and bring the mermaid over to see who wins. %sHowever, it's worthy even if I lose, because I can see the beautiful legs of such a beauty. Haha!</string>
+<string name="taskstr_23_target">Catch 2 mermaids in 15 minutes (120 golds each)</string>
+
+<string name="taskstr_24_title">Inexplicable Rewards</string>
+<string name="taskstr_24_desc">Peter in a metal shop is very famous for making irons. More interestingly, you don't have to pay him money.I asked him today to make a knife for me, and he asked for 15 big blue fish in return. %sI've heard that those big blue fish only live in deep ocean and they are pretty hard to catch. Can you please help me with this?</string>
+<string name="taskstr_24_target">Catch 15 big blue fish(30 golds each)</string>
+
+<string name="taskstr_25_title">Lethal Jellyfish</string>
+<string name="taskstr_25_desc">Jellyfish is a kind of beautiful sea animal, but its tentacles are covered with nematocysts, which are like poisonous filaments that spray venom. Prey will be paralyzed quickly after getting attacked; some would even get killed. Also, Jellyfish will never let it go if they run into any prey.%sRecently, there have been several cases about jellyfish attack, so that the police office is offering a reward for catching jellyfish. Wanna try? Just catch 8 jellyfish in 5 minutes!</string>
+<string name="taskstr_25_target">Catch 8 jellyfish in 5 minutes (35 golds each)</string>
+
+<string name="taskstr_26_title">sweet and sour fried croak</string>
+<string name="taskstr_26_desc">Yesterday, I went to a restaurant and ordered a dish called "sweet and sour fried croak". Yum yum yum, it tasted really good. After dinner, I heard that this dish was made of large yellow croaks in the sea. Large yellow croak's meat is very delicious, its bladder can be made into a delicacy called "fish maw" by dry processing, and its liver can be made into cod-liver oil or other medicines. So how about helping me catch 15 large yellow croaks? %sRemember not to drink any tea if you eat the large yellow croak. It may also hurt your health if you eat large yellow croak with mustard wheat. Additionally, asthmatic patients and people with allergies should not eat too many large yellow croak either.</string>
+<string name="taskstr_26_target">Catch 15 big yellow fish(20 golds each)</string>
+
+<string name="taskstr_27_title">Teeth of the Anglerfish</string>
+<string name="taskstr_27_desc">Brother Mace: my workshop needs to make some materials with the teeth of anglerfish, a kind of fish with "lamps" over their heads. Can you help me catch some? I only want 10 anglerfish this time. %sPlease mind the sharp teeth of this kind of fish. Don't be biten by them when you catch them!</string>
+<string name="taskstr_27_target">Catch 10 anglerfish(50 golds each)</string>
+
+<string name="taskstr_28_title">Gigantic comb</string>
+<string name="taskstr_28_desc">Brother Mace: I received a very strange order today: someone was requesting for a gigantic comb. The customer needs the comb in a very short time, but we can only use the shells of the sea turtles to make our materials for now. Can you help me catch 8 turtles in 5 minutes? %sI will be very confident about this order with your help!</string>
+<string name="taskstr_28_target">Catch 8 turtles in 5 minutes (40 golds each)</string>
+
+<string name="taskstr_29_title">Catch the Shark</string>
+<string name="taskstr_29_desc">Shark is one of the most dangerous animals in the ocean. Incidents of hammerhead sharks attacking humans happen every year. Recently, several hammerhead sharks appear near our sea area, so the police office is offering incentives for catching the sharks. Can you catch 2 sharks in 9 minutes? %sHammerhead sharks have their eyes on their weird heads so that they can see a better view in the ocean. Since they can see the situation behind them just by shaking their heads, plus the fact that they have very sensitive olfactory sensation, you have to be really careful to catch them.</string>
+<string name="taskstr_29_target">Catch 2 sharks in 9 minutes (100 golds each)</string>
+
+<string name="taskstr_30_title">Coral Scavenger</string>
+<string name="taskstr_30_desc">Remember Ajax? The boss of the pub. He has been worrying about cleaning up the big coral in his aquarium. He asked me for a good solution, so that he doesn't have to clean the coral himself every other day. I think some coral fish would help, because this kind of fish eats plankton in the ocean, which could clean up the planktons around the coral in the aquarium. %sCould you please help Ajax catch 80 red coral fish?</string>
+<string name="taskstr_30_target">Catch 80 read coral fish(2 golds each)</string>
+
+<string name="taskstr_31_title">King of the Ocean</string>
+<string name="taskstr_31_desc">I've heard that your ship was almost thrown over by a killer whale last time. It is very dangerous not to get prepared before running into giant sea creatures like killer whales. They have slender mouths and sharp teeth. They are fierce, vengeful and fast. Even sharks can be killed and become killer whales' dinner food. Also, killer whales have another powerful name called "Orcas".%s I would love to study this kind of sea animal which has been called "the king of the ocean". Come help catch 2 killer whales please!</string>
+<string name="taskstr_31_target">Catch 2 killer whales(150 golds each)</string>
+
+<string name="taskstr_32_title">God of Revenge</string>
+<string name="taskstr_32_desc">Yesterday, a fisherman was attacked by a killer whale when he went to the sea alone. Although he survived in the end, he still panicked when he was describing the story to me. Suddenly he remembered that yesterday he shot the killer whale once. Now it's clear why he got attacked: Killer whales are very vengeful; they are even called "God of Revenge" somewhere in the world. %sPlease help the fisherman catch 2 killer whales in 15 minutes! Otherwise he would never gain the courage to go to the sea again.</string>
+<string name="taskstr_32_target">Catch 2 killer whales in 15 minutes (150 golds each)</string>
+
+<string name="taskstr_33_title">Dangerous Dorado</string>
+<string name="taskstr_33_desc">Peter: my metal shop needs to make some spears recently, but we are short of raw materials. I think of the sharp maxillae of doradoes to be the materials. However, catching doradoes is pretty dangerous, and I may not be able to pay you enough for your fish. Still, for the tasty meat of the doradoes, I found Chef. Wang from the restaurant to buy 3 doradoes from you together. Can you help us with this?</string>
+<string name="taskstr_33_target">Catch 3 doradoes(70 golds each)</string>
+
+<string name="taskstr_34_title">Are Devil Fish Real Devils?</string>
+<string name="taskstr_34_desc">Devil fish are also called "manta rays". They are named as devil only because of their scary appearance. Although they look big, they are not aggressive to humans；and they love human touch.However, don't think they are easily manipulated. they can be very dangerous because of their sharp venomous spines at the back. %sThere is a devil fish in the aquarium, and it seems very lonely. Could you please bring 6 more devil fish to accompany the poor little thing in the aquarium?</string>
+<string name="taskstr_34_target">Catch 6 devil fish(60 golds each)</string>
+
+<string name="taskstr_35_title">Abyssal Anglerfish</string>
+<string name="taskstr_35_desc">Do you know that anglerfish is also called "The Goddess with the Lamp" because only female anglerfish have the lamp over the head. Male anglerfish are often attached to the female ones all their lives, and female anglerfish hunt for food with the lamp as the bait. The lamps illuminate the surroundings at the bottom of the sea, so that small fish will be attracted, however, when anglerfish encounter dangers, they will put the "lamps" in their mouths. %sBrother Mace in the workshop want to study on how the "lamp" illuminates. Could you please catch 10 anglerfish in 8 minutes for him?</string>
+<string name="taskstr_35_target">Catch 10 anglerfish in 8 minutes(50 golds each)</string>
+
+<string name="taskstr_36_title">Electricity Turtle Mount</string>
+<string name="taskstr_36_desc">Auntie Maris in the grocery store suddenly came up with an idea of catching a turtle and training it to be a mount, so that she could travel in the ocean. I just think she got too obssessive in the World of Warcraft. %sBut to be honest, I do hope to see if a turtle can truly be trained to be a good mount. So now, please catch 24 turtles, so that I may be able to have a turtle mount myself!</string>
+<string name="taskstr_36_target">Catch 24 turtles(40 golds each)</string>
+
+<string name="taskstr_37_title">A Bottle of Rum</string>
+<string name="taskstr_37_desc">Yesterday when I was drinking in the pub, I argued with the waitress Rena. She insisted that the tails of the mermaids would become two beautiful legs on the land, but I don't believe her. Later, we gamboled that the winner would get a bottle of rum. We both need to count on you to catch 2 mermaids in 10 minutes, and bring the mermaid over to see who wins. %sHowever, it's worthy even if I lose, because I can see the beautiful legs of such a beauty. Haha!</string>
+<string name="taskstr_37_target">Catch 2 mermaid2 in 10 minutes (120 golds each)</string>
+
+<string name="taskstr_38_title">Inexplicable Rewards</string>
+<string name="taskstr_38_desc">Peter in a metal shop is very famous for making irons. More interestingly, you don't have to pay him money.I asked him today to make a knife for me, and he asked for 20 big blue fish in return. %sI've heard that those big blue fish only live in deep ocean and they are pretty hard to catch. Can you please help me with this?</string>
+<string name="taskstr_38_target">Catch 20 big blue fish(30 golds each)</string>
+
+<string name="taskstr_39_title">Lethal Jellyfish</string>
+<string name="taskstr_39_desc">Jellyfish is a kind of beautiful sea animal, but its tentacles are covered with nematocysts, which are like poisonous filaments that spray venom. Prey will be paralyzed quickly after getting attacked; some would even get killed. Also, Jellyfish will never let it go if they run into any prey.%sRecently, there have been several cases about jellyfish attack, so that the police office is offering a reward for catching jellyfish. Wanna try? Just catch 12 jellyfish in 5 minutes!</string>
+<string name="taskstr_39_target">Catch 12 jellyfish in 5 minutes (35 golds each)</string>
+
+<string name="taskstr_40_title">sweet and sour fried croak</string>
+<string name="taskstr_40_desc">Yesterday, I went to a restaurant and ordered a dish called "sweet and sour fried croak". Yum yum yum, it tasted really good. After dinner, I heard that this dish was made of large yellow croaks in the sea. Large yellow croak's meat is very delicious, its bladder can be made into a delicacy called "fish maw" by dry processing, and its liver can be made into cod-liver oil or other medicines. So how about helping me catch 20 large yellow croaks? %sRemember not to drink any tea if you eat the large yellow croak. It may also hurt your health if you eat large yellow croak with mustard wheat. Additionally, asthmatic patients and people with allergies should not eat too many large yellow croak either.</string>
+<string name="taskstr_40_target">Catch 20 big yellow fish(20 golds each)</string>
+
+<string name="taskstr_41_title">Teeth of the Anglerfish</string>
+<string name="taskstr_41_desc">Brother Mace: my workshop needs to make some materials with the teeth of anglerfish, a kind of fish with "lamps" over their heads. Can you help me catch some? I only want 18 anglerfish this time. %sPlease mind the sharp teeth of this kind of fish. Don't be biten by them when you catch them!</string>
+<string name="taskstr_41_target">Catch 18 anglerfish(50 golds each)</string>
+
+<string name="taskstr_42_title">Gigantic comb</string>
+<string name="taskstr_42_desc">Brother Mace: I received a very strange order today: someone was requesting for a gigantic comb. The customer needs the comb in a very short time, but we can only use the shells of the sea turtles to make our materials for now. Can you help me catch 12 turtles in 8 minutes? %sI will be very confident about this order with your help!</string>
+<string name="taskstr_42_target">Catch 12 turtles in 8 minutesT(40 golds each)</string>
+
+<string name="taskstr_43_title">Catch the Shark</string>
+<string name="taskstr_43_desc">Shark is one of the most dangerous animals in the ocean. Incidents of hammerhead sharks attacking humans happen every year. Recently, several hammerhead sharks appear near our sea area, so the police office is offering incentives for catching the sharks. Can you catch 2 sharks in 8 minutes? %sHammerhead sharks have their eyes on their weird heads so that they can see a better view in the ocean. Since they can see the situation behind them just by shaking their heads, plus the fact that they have very sensitive olfactory sensation, you have to be really careful to catch them.</string>
+<string name="taskstr_43_target">Catch 2 shark in 8 minutes(100 golds each)</string>
+
+<string name="taskstr_44_title">Coral Scavenger</string>
+<string name="taskstr_44_desc">Remember Ajax? The boss of the pub. He has been worrying about cleaning up the big coral in his aquarium. He asked me for a good solution, so that he doesn't have to clean the coral himself every other day. I think some coral fish would help, because this kind of fish eats plankton in the ocean, which could clean up the planktons around the coral in the aquarium. %sCould you please help Ajax catch 120 red coral fish?</string>
+<string name="taskstr_44_target">Catch 120 read coral fish(2 golds each)</string>
+
+<string name="taskstr_45_title">Quirky Cat Food</string>
+<string name="taskstr_45_desc">Auntie Maris in the grocery store has a very precious persian cat. This is a very weird cat because it only eats a kind of green small fish. Normally Auntie Maris  buys the fish from the fish shop, but the shop is on vacation today. Could you help Auntie Maris catch 80 small green fish?</string>
+<string name="taskstr_45_target">Catch 80 small green fish(4 golds each)</string>
+
+<string name="taskstr_46_title">Secrets of Clownfish</string>
+<string name="taskstr_46_desc">Do you know that clownfish usually live with anemone in the ocean? Anemones' poisonous tentacles prevent most fish from getting closer, but the clownfishs' special slime protects themselves from affected by anemones. %sUnfortunately, a poor guy got hurt by an anemone today, and Doctor Wang in the hospital needs 20 clownfish to study the composition of the slime. Urgent! Could you please catch 20 clownfish in 8 minutes for us?</string>
+<string name="taskstr_46_target">Catch 20 clownfish in 8 minutes (10 golds each)</string>
+
+<string name="taskstr_47_title">A Bowl of Cuttlefish Tagliatelle</string>
+<string name="taskstr_47_desc">Have you heard about Loe? He is a very good chef in a top restaurant, especially famous for his stir fry eggplant. %sYesterday, he told me that cuttlefish is incredibly tasty and richly nutritious, and promised me that he would make me a bowl of cuttlefish tagliatelle if I give him 12 cuttlefish. I couldn't believe I totally forgot this thing! I have to go to Loe soon, could you please help me catch 12 cuttlefish in 8 minutes? I will surely pay you back!</string>
+<string name="taskstr_47_target">Catch 12 cuttlefish in 8 minutes (7 golds each)</string>
+
+<string name="taskstr_48_title">Julia and the Mermaid</string>
+<string name="taskstr_48_desc">Julia is a dreamy girl in a flower shop. She has been dreaming of what a real mermaid looks like. Can you catch 2 mermaids? To be honest, I really want to see a mermaid myself. I know it's already very lucky to see a mermaid with our own eyes, not mentioning how hard it is to catch one.</string>
+<string name="taskstr_48_target">Catch 2 mermaids(120 golds each)</string>
+
+<string name="taskstr_49_title">Are Devil Fish Real Devils?</string>
+<string name="taskstr_49_desc">Devil fish are also called "manta rays". They are named as devil only because of their scary appearance. Although they look big, they are not aggressive to humans；and they love human touch.However, don't think they are easily manipulated. they can be very dangerous because of their sharp venomous spines at the back. %sThere is a devil fish in the aquarium, and it seems very lonely. Could you please bring 2 more devil fish to accompany the poor little thing in the aquarium in 10 minutes?</string>
+<string name="taskstr_49_target">Catch 2 devil fish in 10 minutes(60 golds each)</string>
+
+<string name="taskstr_50_title">Julia and the Mermaid</string>
+<string name="taskstr_50_desc">Julia is a dreamy girl in a flower shop. She has been dreaming of what a real mermaid looks like. Can you catch 2 mermaids in 10 minutes? To be honest, I really want to see a mermaid myself. I know it's already very lucky to see a mermaid with our own eyes, not mentioning how hard it is to catch one.</string>
+<string name="taskstr_50_target">Catch 2 mermaids in 10 minutes(120 golds each)</string>
+
+<string name="taskstr_51_title">Are Devil Fish Real Devils?</string>
+<string name="taskstr_51_desc">Devil fish are also called "manta rays". They are named as devil only because of their scary appearance. Although they look big, they are not aggressive to humans；and they love human touch.However, don't think they are easily manipulated. they can be very dangerous because of their sharp venomous spines at the back. %sThere is a devil fish in the aquarium, and it seems very lonely. Could you please bring 3 more devil fish to accompany the poor little thing in the aquarium in 8 minutes?</string>
+<string name="taskstr_51_target">Catch 3 devil fish in 8 minutes(60 golds each)</string>
+
+<string name="taskstr_52_title">Dangerous Dorado</string>
+<string name="taskstr_52_desc">Peter: my metal shop needs to make some spears recently, but we are short of raw materials. I think of the sharp maxillae of doradoes to be the materials. However, catching doradoes is pretty dangerous, and I may not be able to pay you enough for your fish. Still, for the tasty meat of the doradoes, I found Chef. Wang from the restaurant to buy 4 doradoes from you together. Can you help us with this?</string>
+<string name="taskstr_52_target">Catch 4 doradoes(70 golds each)</string>
+
+<string name="taskstr_53_title">Catch the Shark</string>
+<string name="taskstr_53_desc">Shark is one of the most dangerous animals in the ocean. Incidents of hammerhead sharks attacking humans happen every year. Recently, several hammerhead sharks appear near our sea area, so the police office is offering incentives for catching the sharks. Can you catch 2 sharks in 9 minutes? %sHammerhead sharks have their eyes on their weird heads so that they can see a better view in the ocean. Since they can see the situation behind them just by shaking their heads, plus the fact that they have very sensitive olfactory sensation, you have to be really careful to catch them.</string>
+<string name="taskstr_53_target">Catch 2 sharks in 9 minutes (100 golds each)</string>
+
+<string name="taskstr_54_title">All-round champion</string>
+<string name="taskstr_54_desc">There are several different methods of movement in the ocean, crawling at the bottom of the sea, swimming under the water and even gliding in the sky. Probably there are different champions for different movements; but the only champion of triathlon belongs to the dactyloptenas, also well known as the"flying fish" with a pair of huge wings. It is a definitely hard–to–catch kind fish.</string>
+<string name="taskstr_54_target">Catch 20 dactyloptenas (45 golds each)</string>
+    
+
+    <string name="taskstr_55_title">Virulent Delicacy</string>
+    <string name="taskstr_55_desc">Loe in the pub is preparing to cook a patrimonial delicacy, that is globefish. That's right, the virulent globefish. The process of the cooking is complicated, but surely the delicacy is avirulent. He needs 5 globefishes.</string>
+    <string name="taskstr_55_target">Catch 5 globefish (15 golds each)</string>
+    
+    <string name="taskstr_56_title">Virulent Delicacy</string>
+    <string name="taskstr_56_desc">Loe in the pub is preparing to cook a patrimonial delicacy, that is globefish. That's right, the virulent globefish. The process of the cooking is complicated, but surely the delicacy is avirulent. He needs 10 globefishes.</string>
+    <string name="taskstr_56_target">Catch 10 globefish (15 golds each)</string>
+    
+    <string name="taskstr_57_title">Virulent Delicacy</string>
+    <string name="taskstr_57_desc">Loe in the pub is preparing to cook a patrimonial delicacy, that is globefish. That's right, the virulent globefish. The process of the cooking is complicated, but surely the delicacy is avirulent. He needs 30 globefishes.</string>
+    <string name="taskstr_57_target">Catch 30 globefish (15 golds each)</string>
+    
+    <string name="taskstr_58_title">Virulent Delicacy</string>
+    <string name="taskstr_58_desc">Loe in the pub is preparing to cook a patrimonial delicacy, that is globefish. That's right, the virulent globefish. The process of the cooking is complicated, but surely the delicacy is avirulent. He needs 40 globefishes.</string>
+    <string name="taskstr_58_target">Catch 40 globefish (15 golds each)</string>
+    
+    <string name="taskstr_59_title">Smart Dolphin</string>
+    <string name="taskstr_59_desc">Dolphin is close friend of humankind, they are happy to be close with people. The aquarium wants to train the dolphin to do some jumping shows, could you please help them to catch 1 dolphin?</string>
+    <string name="taskstr_59_target">Catch 1 dolphin (90 golds each)</string>
+    
+    <string name="taskstr_60_title">Smart Dolphin</string>
+    <string name="taskstr_60_desc">Dolphin is close friend of humankind, they are happy to be close with people. The aquarium wants to train the dolphin to do some jumping shows, could you please help them to catch 2 dolphin?</string>
+    <string name="taskstr_60_target">Catch 2 dolphin (90 golds each)</string>
+    
+    <string name="taskstr_61_title">Smart Dolphin</string>
+    <string name="taskstr_61_desc">Dolphin is close friend of humankind, they are happy to be close with people. The aquarium wants to train the dolphin to do some jumping shows, could you please help them to catch 3 dolphin?</string>
+    <string name="taskstr_61_target">Catch 3 dolphin (90 golds each)</string>
+    
+    <string name="taskstr_62_title">Smart Dolphin</string>
+    <string name="taskstr_62_desc">Dolphin is close friend of humankind, they are happy to be close with people. The aquarium wants to train the dolphin to do some jumping shows, could you please help them to catch 5 dolphin?</string>
+    <string name="taskstr_62_target">Catch 5 dolphin (90 golds each)</string>
+    
+    <!--Achieve data-->
+    
+    
+    <string name="achievename_1_title">Newbie Fisherman</string>
+    <string name="achievedesc_1_desc">Over 1 hour accumulative gaming time</string>
+    
+    <string name="achievename_2_title">Expert Fisherman</string>
+    <string name="achievedesc_2_desc">Over 5 hours accumulative gaming time</string>
+    
+    <string name="achievename_3_title">Voyager</string>
+    <string name="achievedesc_3_desc">Over 24 hours accumulative gaming time</string>
+    
+    <string name="achievename_4_title">Ferryman</string>
+    <string name="achievedesc_4_desc">Over 2 days accumulative gaming time</string>
+    
+    <string name="achievename_5_title">Seahunter</string>
+    <string name="achievedesc_5_desc">Over 5 days accumulative gaming time</string>
+    
+    <string name="achievename_6_title">Ocean echo</string>
+    <string name="achievedesc_6_desc">Over 1 week accumulative gaming time</string>
+    
+    <string name="achievename_7_title">Lv.10</string>
+    <string name="achievedesc_7_desc">Congratulations You have become a level 10 fisherman.</string>
+    
+    <string name="achievename_8_title">Lv.20</string>
+    <string name="achievedesc_8_desc">Congratulations You have become a level 20 fisherman.</string>
+    
+    <string name="achievename_9_title">Lv.30</string>
+    <string name="achievedesc_9_desc">Congratulations You have become a level 30 fisherman.</string>
+    
+    <string name="achievename_10_title">Lv.40</string>
+    <string name="achievedesc_10_desc">Congratulations You have become a level 40 fisherman.</string>
+    
+    <string name="achievename_11_title">Lv.50</string>
+    <string name="achievedesc_11_desc">Congratulations You have become a level 50 fisherman.</string>
+    
+    <string name="achievename_12_title">Lv.60</string>
+    <string name="achievedesc_12_desc">Congratulations You have become a level 60 fisherman.</string>
+    
+    <string name="achievename_13_title">Lv.70</string>
+    <string name="achievedesc_13_desc">Congratulations You have become a level 70 fisherman.</string>
+    
+    <string name="achievename_14_title">Lv.80</string>
+    <string name="achievedesc_14_desc">Congratulations You have become a level 80 fisherman.</string>
+    
+    <string name="achievename_15_title">Ocean King</string>
+    <string name="achievedesc_15_desc">Congratulations You have become a level 90 fisherman.</string>
+    
+    <string name="achievename_16_title">Good Status</string>
+    <string name="achievedesc_16_desc">You have earned up to 1000 golds from fishing</string>
+    
+    <string name="achievename_17_title">High Status</string>
+    <string name="achievedesc_17_desc">You have earned up to 10000 golds from fishing</string>
+    
+    <string name="achievename_18_title">Worthy Status</string>
+    <string name="achievedesc_18_desc">You have earned up to 100000 golds from fishing</string>
+    
+    <string name="achievename_19_title">Millionare</string>
+    <string name="achievedesc_19_desc">You have earned up to 1000000 golds from fishing</string>
+    
+    <string name="achievename_20_title">Sugar Daddy</string>
+    <string name="achievedesc_20_desc">You have earned up to 10000000 golds from fishing</string>
+    
+    <string name="achievename_21_title">Big consumer</string>
+    <string name="achievedesc_21_desc">You have spent over 1000 golds accumulatively</string>
+    
+    <string name="achievename_22_title">Great consumer</string>
+    <string name="achievedesc_22_desc">You have spent over 10000 golds accumulatively</string>
+    
+    <string name="achievename_23_title">Big loss</string>
+    <string name="achievedesc_23_desc">You have spent over 100000 golds accumulatively</string>
+    
+    <string name="achievename_24_title">Low balance </string>
+    <string name="achievedesc_24_desc">You have spent over 1000000 golds accumulatively</string>
+    
+    <string name="achievename_25_title">No way!</string>
+    <string name="achievedesc_25_desc">You have spent over 10000000 golds accumulatively</string>
+    
+    <string name="achievename_26_title">Five combo hit</string>
+    <string name="achievedesc_26_desc">You have been earning over 5 golds each shoot for 5 times</string>
+    
+    <string name="achievename_27_title">Ten combo hit</string>
+    <string name="achievedesc_27_desc">You have been earning over 5 golds each shoot for 10 times</string>
+    
+    <string name="achievename_28_title">Sharp shooter</string>
+    <string name="achievedesc_28_desc">You have been earning over 5 golds each shoot for 15 times</string>
+    
+    <string name="achievename_29_title">Never miss!</string>
+    <string name="achievedesc_29_desc">You have been earning over 5 golds each shoot for 20 times</string>
+    
+    <string name="achievename_30_title">Talented Canbo!</string>
+    <string name="achievedesc_30_desc">You have been earning over 5 golds each shoot for 25 times</string>
+    
+    <string name="achievename_31_title">Crucian carp</string>
+    <string name="achievedesc_31_desc">You have caught over 2000 1-gold fish accumulatively</string>
+    
+    <string name="achievename_32_title">Master Roshi</string>
+    <string name="achievedesc_32_desc">You have caught over 1000 40-gold turtles accumulatively</string>
+    
+    <string name="achievename_33_title">Shark hunter</string>
+    <string name="achievedesc_33_desc">You have caught over 100 100-gold sharks accumulatively</string>
+    
+    <string name="achievename_34_title">Power cut</string>
+    <string name="achievedesc_34_desc">You have caught over 300 50-gold anglerfish accumulatively</string>
+    
+    <string name="achievename_35_title">Cuttlefish dish</string>
+    <string name="achievedesc_35_desc">You have caught 300 7-gold cuttlefish accumulatively</string>
+    
+    <string name="achievename_36_title">Abyssal kiting</string>
+    <string name="achievedesc_36_desc">You have caught over 200 60-gold devil fish accumulatively</string>
+    
+    <string name="achievename_37_title">Mermaid madness</string>
+    <string name="achievedesc_37_desc">You have caught over 50 120-gold mermaids accumulatively</string>
+    
+    <string name="achievename_38_title">Solid net</string>
+    <string name="achievedesc_38_desc">You have caught over 300 70-gold doradoes accumulatively</string>
+    
+    <string name="achievename_39_title">The giant</string>
+    <string name="achievedesc_39_desc">You have caught over 50 150-gold whales accumulatively</string>
+    
+    <string name="achievename_40_title">Dangerous animals</string>
+    <string name="achievedesc_40_desc">You have caught over 200 35-gold jellyfish accumulatively</string>
+    
+    <string name="achievename_41_title">Lucky bastard</string>
+    <string name="achievedesc_41_desc">Catch the shark with a level 1 cannon</string>
+    
+    <string name="achievename_42_title">Who's the one</string>
+    <string name="achievedesc_42_desc">Catch the mermaid with a level 1 cannon</string>
+    
+    <string name="achievename_43_title">God's blessings</string>
+    <string name="achievedesc_43_desc">Catch the whale with a level 1 cannon</string>
+    
+    <string name="achievename_44_title">Final catch</string>
+    <string name="achievedesc_44_desc">Catch the shark with a level 7 cannon</string>
+    
+    <string name="achievename_45_title">You are mine.</string>
+    <string name="achievedesc_45_desc">Catch the mermaid with a level 8 cannon</string>
+    
+    <string name="achievename_46_title">Don't run!</string>
+    <string name="achievedesc_46_desc">Catch the whale with a level 9 cannon</string>
+    
+    <string name="achievename_47_title">Fish sightseeing</string>
+    <string name="achievedesc_47_desc">10 cannons out, no fish caught </string>
+    
+    <string name="achievename_48_title">Unexpected loss</string>
+    <string name="achievedesc_48_desc">15 cannons out, no fish caught </string>
+    
+    <string name="achievename_49_title">Great generosity</string>
+    <string name="achievedesc_49_desc">20 cannons out, no fish caught </string>
+    
+    <string name="achievename_50_title">Please be wise!</string>
+    <string name="achievedesc_50_desc">25 cannons out, no fish caught </string>
+    
+    <string name="achievename_51_title">Laser's earning</string>
+    <string name="achievedesc_51_desc">You have earned over 400 golds with one laser ray</string>
+    
+    <string name="achievename_52_title">Count on lasers</string>
+    <string name="achievedesc_52_desc">You have earned over 500 golds with one laser ray</string>
+    
+    <string name="achievename_53_title">Ultraman's laser</string>
+    <string name="achievedesc_53_desc">You have earned over 600 golds with one laser ray</string>
+    
+    <string name="achievename_54_title">Responsible</string>
+    <string name="achievedesc_54_desc">You have accomplished 10 routine tasks</string>
+    
+    <string name="achievename_55_title">Workaholic</string>
+    <string name="achievedesc_55_desc">You have accomplished 50 routine tasks</string>
+    
+    <string name="achievename_56_title">Fish everywhere</string>
+    <string name="achievedesc_56_desc">You have accomplished 100 routine tasks</string>
+    
+    <string name="achievename_57_title">three fish type combo</string>
+    <string name="achievedesc_57_desc">Catch 3 different types of fish with one cannon</string>
+    
+    <string name="achievename_58_title">four fish type combo</string>
+    <string name="achievedesc_58_desc">Catch 4 different types of fish with one cannon</string>
+    
+    <string name="achievename_59_title">five fish type combo</string>
+    <string name="achievedesc_59_desc">Catch 5 different types of fish with one cannon</string>
+    
+    <string name="achievename_60_title">six fish type combo</string>
+    <string name="achievedesc_60_desc">Catch 6 different types of fish with one cannon</string>
+    
+    <string name="achievename_61_title">seven fish type combo</string>
+    <string name="achievedesc_61_desc">Catch 7 different types of fish with one cannon</string>
+    
+    <string name="achievename_62_title">eight fish type combo</string>
+    <string name="achievedesc_62_desc">Catch 8 different types of fish with one cannon</string>
+    
+    <string name="achievename_63_title">three fish combo</string>
+    <string name="achievedesc_63_desc">Catch 3 fish with one cannon</string>
+    
+    <string name="achievename_64_title">four fish combo</string>
+    <string name="achievedesc_64_desc">Catch 4 fish with one cannon</string>
+    
+    <string name="achievename_65_title">five fish combo</string>
+    <string name="achievedesc_65_desc">Catch 5 fish with one cannon</string>
+    
+    <string name="achievename_66_title">six fish combo</string>
+    <string name="achievedesc_66_desc">Catch 6 fish with one cannon</string>
+    
+    <string name="achievename_67_title">seven fish combo</string>
+    <string name="achievedesc_67_desc">Catch 7 fish with one cannon</string>
+    
+    <string name="achievename_68_title">eight fish combo</string>
+    <string name="achievedesc_68_desc">Catch 8 fish with one cannon</string>
+    
+    <string name="achievename_69_title">nine fish combo</string>
+    <string name="achievedesc_69_desc">Catch 9 fish with one cannon</string>
+    
+    <string name="achievename_70_title">ten fish combo</string>
+    <string name="achievedesc_70_desc">Catch 10 fish with one cannon</string>
+    
+    <string name="achievename_71_title">Mr thunder</string>
+    <string name="achievedesc_71_desc">You have earned over 300 golds with one torpedo.</string>
+    
+    <string name="achievename_72_title">You shake me!</string>
+    <string name="achievedesc_72_desc">You have earned over 350 golds with one torpedo.</string>
+    
+    <string name="achievename_73_title">Thunder king</string>
+    <string name="achievedesc_73_desc">You have earned over 400 golds with one torpedo.</string>
+    
+    <string name="achievename_74_title">You really shake me!</string>
+    <string name="achievedesc_74_desc">You have earned over 450 golds with one torpedo.</string>
+    
+    <string name="achievename_75_title">Five Thunder on your head?</string>
+    <string name="achievedesc_75_desc">You have earned over 500 golds with one torpedo.</string>
+    
+    <string name="achievename_76_title">NO torpedo,no happy.</string>
+    <string name="achievedesc_76_desc">You have earned over 600 golds with one torpedo.</string>
+    
+    <string name="achievename_77_title">Super murloc killer</string>
+    <string name="achievedesc_77_desc">You have caught over 50 murlocs</string>
+    
+    <string name="achievename_78_title">I love pet</string>
+    <string name="achievedesc_78_desc">Fishing with your pet</string>
+    
+    <string name="achievename_79_title">Mr. pet</string>
+    <string name="achievedesc_79_desc">Level up pet 10</string>
+    
+    <string name="achievename_80_title">Fan of pets</string>
+    <string name="achievedesc_80_desc">Summons 4 kinds of pets</string>
+    
+    <string name="achievename_81_title">Huge fan of pets</string>
+    <string name="achievedesc_81_desc">Level up 4 kinds of pets 10</string>
+    
+
+    <string name="achievename_82_title">Wrath of lightning</string>
+    <string name="achievedesc_82_desc">Earned 400 golds with one Lightning Storm</string>
+    
+    <string name="achievename_83_title">Tide of lightning</string>
+    <string name="achievedesc_83_desc">Earned 500 golds with one Lightning Storm</string>
+    
+    <string name="achievename_84_title">Return of Thor</string>
+    <string name="achievedesc_84_desc">Earned 600 golds with one Lightning Storm</string>
+    
+    <string name="achievename_85_title">Electric shock</string>
+    <string name="achievedesc_85_desc">Catch 20 fishes with one Lightning Storm</string>
+    
+    <string name="achievename_86_title">Endless Power</string>
+    <string name="achievedesc_86_desc">Catch 30 fishes with one Lightning Storm</string>
+    
+    <string name="achievename_87_title">Fly away</string>
+    <string name="achievedesc_87_desc">You have caught over 300 45-golds flying fish accumulatively</string>
+    
+    <string name="achievename_88_title">the Great Perfection</string>
+    <string name="achievedesc_88_desc">Congratulations You have become a level 99 fisherman.</string>
+    
+    <string name="achievename_89_title">Gift of Golden Turtle</string>
+    <string name="achievedesc_89_desc">Catch the Golden Turtle with 1 cannon</string>
+    
+    <string name="achievename_90_title">Treasure of pirates</string>
+    <string name="achievedesc_90_desc">owned a treasure chest by cannon</string>
+    
+    <string name="achievename_91_title">The Cove</string>
+    <string name="achievedesc_91_desc">You have caught 100 dolphins</string>
+    
+    <string name="achievename_92_title">Upside Down</string>
+    <string name="achievedesc_92_desc">Owned over 1000 gold with one Atomic Gun</string>
+    
+    <string name="achievename_93_title">Judgement Day</string>
+    <string name="achievedesc_93_desc">Owned over 1200 gold with one Atomic Gun</string>
+    
+    <string name="achievename_94_title">It's time for globefishes</string>
+    <string name="achievedesc_94_desc">You have caught 300 globefishes</string>
+</resources>

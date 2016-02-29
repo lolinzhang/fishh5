@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="channel">90123</string>
+    <string name="hello">Hello World, FishActivity!</string>
+    <string name="app_name">捕鱼之海底捞</string>
+
+  <string name="PRICEUNIT">￥</string>
+    
+    <string name="sorry">对不起</string>
+    <string name="networkUnavailable">当前网络不可用</string>
+    <string name="cantCharge">无法应用内购买，请检查您的设置</string>
+    <string name="moreGameName">新游戏</string>
+    <string name="moreGameTitle">90123新游戏</string>
+    <string name="backButton">返回</string>
+    <string name="buySuccess">购买成功</string>
+    <string name="buySuccessCont">您成功购买了%s个%s</string>
+    <string name="buySuccessContFish">您成功激活了%s</string>
+    <string name="buySuccessCont1Win32">您成功购买了</string>
+    <string name="buySuccessCont2Win32">个</string>
+    <string name="buyCancel">购买取消</string>
+    <string name="buyFail">无法完成支付，请稍候再试</string>
+    <string name="nameCoin">金币</string>
+    <string name="nameStarfish">海星</string>
+    <string name="nameLightning">闪电炮</string>
+    <string name="nameSorpedos">鱼雷</string>
+    <string name="namePenguin">宠物企鹅</string>
+    <string name="nameCat">宠物猫</string>
+    <string name="nameSeal">宠物海豹</string>
+    <string name="nameBear">宠物熊</string>
+    <string name="nameAtom">原子炮</string>
+    <string name="nameDolphin">海豚</string>
+    <string name="nameGlobefish">河豚</string>
+    
+    <string name="limeiCoin">您的积分兑换了%d金币</string>
+    
+    <string name="notification">美人鱼害羞地请你去她家做客，你很久没来了……</string>
+
+  <string name="noticeTime1">活动有效期：</string>
+  <string name="noticeTime2">公告有效期：</string>
+  <string name="noticeTime3">至</string>
+    
+    
+    <string name="gradeTitle">渔船出港之际，你是否想在APP STORE上留下你的航海誓言？</string>
+    <string name="gradeNow">现在评分</string>
+    <string name="gradeLater">以后再说</string>
+    <string name="gradeNoShow">不再提示</string>
+    
+    <string name="act_lightning_code_send_ok">活动码发送成功，获得%d个闪电炮</string>
+    <string name="pause_path">images\//pause\//cn\//</string>
+    <string name="alittlmemory">内部存储空间不足，可能导致数据丢失</string>
+    
+    <string name="act_pet_code_not_used">活动码不能使用，您已经有%s</string>
+    <string name="sysCoinDesc">在你离开游戏的时候，美人鱼留下%d金币就羞涩的游走了…</string>
+    
+    <string name="imgShareWait">正在发送，请稍候</string>
+    <string name="imgShareSuccess">分享成功</string>
+    <string name="imgShareText">我的iPhone游戏#捕鱼之海底捞#战绩：%d级，%d个金币，%s完成%d个成就，共获得%d个成就点！</string>
+    <string name="imgSharePet">获得%d个宠物，当前%s已经%d级，</string>
+     <string name="twitter_text">No fish, No money; No money No fun. Hey, Come on! Let\'s play the game, make some money and make our life fun.</string>
+    <string name="twitter_url">https://market.android.com/details?id=com.sg.android.fish</string>
+    
+    <string name="facebook_description">Funny Fishing Game</string>
+    <string name="facebook_name">Wow Fish</string>
+    <string name="facebook_link">https://market.android.com/details?id=com.sg.android.fish</string>
+    <string name="facebook_caption">No fish, No money; No money No fun. Hey, Come on! Let\'s play the game, make some money and make our life fun.</string>
+    
+    <string name="pet_exchange">宠物激活</string>
+     <string name="pet_code">确定激活此宠物？</string>
+     <string name="pet_cannot_exchange">抱歉，你的成就点不够！(查看成就：返回捕鱼界面，点击左上方酒桶按钮，点击成就按钮)</string>
+     <string name="pet_name">宠物名称</string> 
+     <string name="pet_lv">等级</string>
+     <string name="pet_rate_range">等级范围</string>
+     <string name="pet_coast_achievePoints">消耗成就点</string>
+     <string name="pet_buy">购买价格</string>
+     <string name="pet_special_ability">特殊能力</string>
+     <string name="penguin_name">企鹅</string>
+     <string name="cat_name">小猫</string>
+     <string name="seal_name">海豹</string>
+     <string name="bear_name">北极熊</string>
+     <string name="pet_rate_range_int">Lv.1-Lv.10</string>
+    <string name="pet_coast_achievePoints_int1">%d</string>
+     <string name="pet_coast_achievePoints_int2">（%d可用）</string>
+     <string name="penguin_special_ability">捕鱼所获经验增加1%-5%</string>
+     <string name="penguin_special_ability_now">捕鱼所获经验增加%.1f%%</string>
+     <string name="cat_special_ability">捕鱼激光获取速度增加1%-5%</string>
+     <string name="cat_special_ability_now">捕鱼激光获取速度增加%.1f%%</string>
+        <string name="seal_special_ability">在游戏里每60秒自动增加2-20金币</string>
+     <string name="seal_special_ability_now">在游戏里每60秒自动增加%.1f金币</string>
+      <string name="bear_special_ability">捕鱼命中率增加5%-50%</string>
+     <string name="bear_special_ability_now">捕鱼命中率增加%.1f%%</string>
+     
+     <string name="act_title">活动码</string>
+     <string name="act_input">请输入活动码：</string>
+     <!-- 
+     <string name="act_code">发表建议，提交bug，赢取活动码，<font color="#3366FF" size="20">点击进入</font></string>
+      -->
+      <string name="act_code">使用活动码可获得金币或各种道具，活动码可以在官方微博的活动中获得</string>
+       
+    <string name="act_weibo">http://weibo.com/90123mobile</string>
+    <string name="act_code_used">活动码已经使用</string>
+    <string name="act_code_noexit">活动码不存在</string>
+    <string name="act_code_send_ok">活动码发送成功，获得%d金币</string>
+    <string name="act_atom_code_send_ok">活动码发送成功，获得%d个原子炮</string>
+    <string name="act_haixing_code_send_ok">活动码发送成功，获得%d个海星</string>
+    <string name="act_yulei_code_send_ok">活动码发送成功，获得%d个鱼雷</string>
+    <string name="act_level_code_send_ok">活动码发送成功，等级到%d级</string>
+    <string name="act_pet_send_ok">活动码发送成功，您得到%s.</string>
+    <string name="act_fish_send_ok">活动码发送成功，您激活了%s.</string>
+    <string name="act_code_connfail">您的Android设备没有联网，无法使用活动码。</string>
+    
+    <string name="act_code_httperr">网络连接失败...</string>
+    
+    <string name="update_version">有新版本，去www.90123.com看看？确定马上升级 \n </string>
+    
+     <string name="notify">你获得的金币累积达最高限额200个。
+     			金币将不会增加。</string>
+      
+      <!-- 首页更多游戏 -->
+   <string name="more">http://www.90123.com/sys/web/index_cn.html</string>
+     <!-- 更新游戏 下载-->
+    <string name="update_game_url">http://dl.90123.com/sys/fish/fish.apk</string>
+
+    <!-- 首页，设置页 路径 -->
+    <string name="path_index">images\//</string>
+       <!-- 购买金币页 路径 -->
+    <string name="path_pay">images\//buy\//</string>
+        <!-- 帮助 路径 --> 
+    <string name="path_help">images\//help\//cn\//</string>
+    
+          <!-- 任务 路径 --> 
+    <string name="task_path">images\//task\//cn\//</string>
+     <!-- 宠物 路径 --> 
+    <string name="pet_path">images\//pet\//cn\//</string>
+    
+      <string name="lang">cn</string>
+      
+     <!-- 得到200金币通知 -->
+    <string name="notify_enter">进入游戏</string>
+    <string name="notify_known">我知道了</string>
+    
+    <string name="partnerHint">"partner"</string>
+	<string name="sellerHint">"seller"</string>
+	<string name="out_trade_noHint">"out_trade_no"</string>
+	<string name="subjectHint">"subject"</string>
+	<string name="bodyHint">"body"</string>
+	<string name="total_feeHint">"total_fee"</string>
+	<string name="notify_urlHint">"notify_url"</string>
+	<string name="charsetHint">"charset"</string>
+	<string name="signTypeHint">"signType"</string>
+	
+	<string name="confirm_install_hint">"安装提示"</string>	
+	<string name="confirm_install">"为保证您的交易安全，需要您安装支付宝安全支付服务，才能进行付款。%s点击确定，立即安装。"</string>
+	
+	
+	<string name="Ensure">确定</string>
+	<string name="Cancel">取消</string>
+	<string name="check_sign_failed">您的订单信息已被非法篡改。</string> 
+	
+	<string name="achievecomplete">完成度: </string> 
+	<string name="achievestatus">完成%d个（共%d个） %d/%d分</string>
+    <string name="achievestime">当前游戏累计时间：%d天%d小时 </string> 
+    <string name="earnedgolds">当前累计获得：%d金币</string> 
+    <string name="spentgolds">当前累计消耗：%d金币</string> 
+	    <!-- 任务 -->
+	 <string name="taskfreshtime">任务重置时间   %s%s</string> 
+	 <string name="taskneed">任务需求 </string> 
+     <string name="taskcompletestatus">完成情况 </string> 
+     <string name="taskaward">完成奖励  </string> 
+     <string name="taskfreshdesc">日常任务会在完成的1小时后重置 </string>
+     
+     
+     <string name="taskincomplete">未完成 </string>
+     <string name="taskcompleted">已完成 </string>
+     <string name="taskfail">任务失败 </string>
+     
+      <string name="screenshot">游戏截图已经保存在wowfish目录下，快快上传到你的微博和朋友分享吧！</string>
+      <string name="nosdcard">SDCard 不存在或者写保护 </string>
+      
+       <string name="sdcard">存储卡 </string>
+       <string name="ok">确定 </string>
+       <string name="close">关闭 </string>
+       <string name="updateversion">更新版本</string>
+       <string name="send">发送</string>
+       
+
+        <string name="buyByCoinSure">确定花费%d金币购买%s？</string>
+    
+      <string name="refresh_task_coins">重置当前任务需要  %d  金币</string>
+      <string name="refresh_task_progress">当前有正在进行的任务，重置当前任务需要  %d  金币,你确认要重置任务？</string>
+
+      <string name="refresh_task_coins_notenough">抱歉，你的金币不够</string>
+      <string name="refresh_task_rest">重置任务需要  %d  金币,你确认要重置任务？</string>
+      <!-- 快捷方式 -->
+      <string name="shortcut_add">添加图标至主屏幕</string>
+      <string name="shortcut_title">退出捕鱼之海底捞</string>
+      <string name="shortcut_quit">可不可以结束游戏？</string>
+    
+    <!--任务数据部分-->
+    <string name="taskstr_1_title">醉酒的代价</string>
+<string name="taskstr_1_desc">酒馆水族箱里的观赏鱼居然被一群醉汉捞出来烤了吃,为此酒馆老板老陈大发雷霆,发誓不给他一个满意的赔偿就永远不卖酒给那群酒鬼.%s那群可怜又可气的酒鬼们求我弄30条小斑马鱼赔给老陈,你能帮他们这个忙吗?他们愿用高价买下这些鱼,他们已经几天没尝到老陈的美酒了.</string>
+<string name="taskstr_1_target">捕获30条1金币的小斑马鱼</string>
+
+<string name="taskstr_2_title">一碗乌贼宽面</string>
+<string name="taskstr_2_desc">你知道王老九吗?他是饭馆里的主厨,厨艺不错,特别是煸茄子…（省略500字赞美）…%s抱歉话说远了啊,是这样的,昨天他告诉我乌贼味感鲜脆爽口,而且营养价值高,答应只要我送他2条乌贼就给我做一碗"乌贼宽面",结果昨天回家就把这事丢到脑后了,这我马上得去王老九那,你能不能帮我在8分钟内抓2条乌贼呀,我一定会报答你的.</string>
+<string name="taskstr_2_target">在8分钟之内捕获2条7金币的乌贼</string>
+
+<string name="taskstr_3_title">奇怪的猫粮</string>
+<string name="taskstr_3_desc">杂货铺的马大妈养了一只珍贵的波斯猫,这只猫非常奇怪,只爱吃一种绿色的小鱼,平时马大妈都是在鱼店买鱼,但今天鱼店放假,你能帮马大妈抓20条小绿鱼吗?</string>
+<string name="taskstr_3_target">捕获20条4金币的小绿鱼</string>
+
+<string name="taskstr_4_title">珊瑚清道夫</string>
+<string name="taskstr_4_desc">酒馆的老陈最近很烦恼,因为他总得清理他水族箱里的那座大珊瑚,为此他让我想点办法,我想几十条珊瑚鱼应该可以解决这个问题,因为珊瑚鱼平常以海底的浮游微生物为食,正好可以帮他清理水族箱里的浮游微生物.%s你可不可以帮帮老陈,给他抓25条红色珊瑚鱼.</string>
+<string name="taskstr_4_target">捕获25条2金币的红色珊瑚鱼</string>
+
+<string name="taskstr_5_title">小丑鱼的秘密</string>
+<string name="taskstr_5_desc">你知道吗?小丑鱼在海里通常和一种叫海葵的生物住在一起,海葵带毒的触手使得大多数鱼不敢接近,而小丑鱼有特殊的体表粘液,可保护它不受海葵的影响,有时海葵在受到某些鱼的攻击时,小丑鱼们甚至都会挺身而出保护海葵.%s有个倒霉的家伙今天不幸让海葵刺伤了,诊所里的王大夫想要5条小丑鱼来研究它们的体表粘液,万分火急！你能不能在8分钟里捕捉5条小丑鱼?</string>
+<string name="taskstr_5_target">在8分钟之内捕获5条10金币的小丑鱼</string>
+
+<string name="taskstr_6_title">美人鱼与朱朱</string>
+<string name="taskstr_6_desc">花店的朱朱是个爱幻想的女孩,她一直想看看传说中的美人鱼是什么样子,你能捕捉1条美人鱼吗?说实话我也非常想看看,我知道这非常需要运气,看到美人鱼已经很走运了,更别说抓住一条.</string>
+<string name="taskstr_6_target">捕获1条120金币的美人鱼</string>
+
+<string name="taskstr_7_title">莫名其妙的报酬</string>
+<string name="taskstr_7_desc">铁匠铺的崔大炮打造铁器的功夫非常棒,是十里八乡有名的铁匠,不过他要求的报酬也非常奇怪,不一定只要钱,今天我求他帮我做把刀,结果他问我要10条大蓝鱼,没有的话就不做.%s听说这种大蓝鱼只生活在深海里,而且不是很好捕捉,你可不可以帮我抓一些来?</string>
+<string name="taskstr_7_target">捕获10条30金币的大蓝鱼</string>
+
+<string name="taskstr_8_title">致命的水母</string>
+<string name="taskstr_8_desc">水母是种美丽的海洋生物,但它的触手上面布满了刺细胞,像毒丝一样,能够射出毒液,猎物被刺螫以后,会迅速麻痹,有的甚至死亡.而且水母一旦遇到猎物,从不轻易放过.%s最近海边发生了好几起水母伤人的事情,警察局悬赏捕捉水母,你要来试试吗?8分钟内捉到4只水母就够了.</string>
+<string name="taskstr_8_target">在8分钟之内捕获4只35金币的水母</string>
+
+<string name="taskstr_9_title">松鼠黄鱼</string>
+<string name="taskstr_9_desc">昨天我去饭馆吃了一道叫"松鼠黄鱼"的菜,啧啧,真是好味道,饭后我打听到这道菜是用海里的大黄鱼做的,大黄鱼可真是好东西,鱼肉不但鲜美,鱼鳔还可以干制成名贵食品"鱼肚",肝脏还是制造鱼肝油的好原料,还能入药,怎么样?帮我抓10条大黄鱼吧.%s还有你得记住,吃大黄鱼前后别喝茶,也别和荞麦一块吃,食物相克的哦,哮喘病人和过敏体质也最好少吃.</string>
+<string name="taskstr_9_target">捕获10条20金币的大黄鱼</string>
+
+<string name="taskstr_10_title">鮟鱇鱼的牙齿</string>
+<string name="taskstr_10_desc">常小弟：我的作坊需要几条鮟鱇鱼的牙齿作材料,就是那种头上顶了一盏灯笼的鱼,你能帮我捕抓点这种鱼吗?我想只要5条鮟鱇鱼就可以了.%s注意鮟鱇鱼锋利的牙齿,在抓它们的时候别让它给咬到了！</string>
+<string name="taskstr_10_target">捕获5条50金币的鮟鱇鱼</string>
+
+<string name="taskstr_11_title">超级大梳子</string>
+<string name="taskstr_11_desc">作坊的常小弟：我今天收到一个奇怪的订单,要做一支超级大的梳子,原材料目前只有海里的海龟壳可以用,客户要求的时间很紧急,你能在5分钟里帮我抓4只海龟来吗?%s要是你能答应的话我就有信心在客户规定的时间内做出这把梳子.</string>
+<string name="taskstr_11_target">在5分钟之内捕获4只40金币的海龟</string>
+
+<string name="taskstr_12_title">醉酒的代价</string>
+<string name="taskstr_12_desc">酒馆水族箱里的观赏鱼居然被一群醉汉捞出来烤了吃,为此酒馆老板老陈大发雷霆,发誓不给他一个满意的赔偿就永远不卖酒给那群酒鬼.%s那群可怜又可气的酒鬼们求我弄60条小斑马鱼赔给老陈,你能帮他们这个忙吗?他们愿用高价买下这些鱼,他们已经几天没尝到老陈的美酒了.</string>
+<string name="taskstr_12_target">捕获60条1金币的小斑马鱼</string>
+
+<string name="taskstr_13_title">一碗乌贼宽面</string>
+<string name="taskstr_13_desc">你知道王老九吗?他是饭馆里的主厨,厨艺不错,特别是煸茄子…（省略500字赞美）%s抱歉话说远了啊,是这样的,昨天他告诉我乌贼味感鲜脆爽口,而且营养价值高,答应只要我送他5条乌贼就给我做一碗"乌贼宽面",结果昨天回家就把这事丢到脑后了,这我马上得去王老九那,你能不能帮我在8分钟内抓5条乌贼呀,我一定会报答你的.</string>
+<string name="taskstr_13_target">在8分钟内捕获5条7金币的乌贼</string>
+
+<string name="taskstr_14_title">奇怪的猫粮</string>
+<string name="taskstr_14_desc">杂货铺的马大妈养了一只珍贵的波斯猫,这只猫非常奇怪,只爱吃一种绿色的小鱼,平时马大妈都是在鱼店买鱼,但今天鱼店放假,你能帮马大妈抓40条小绿鱼吗?</string>
+<string name="taskstr_14_target">捕获40条4金币的小绿鱼</string>
+
+<string name="taskstr_15_title">珊瑚清道夫</string>
+<string name="taskstr_15_desc">酒馆的老陈最近很烦恼,因为他总得清理他水族箱里的那座大珊瑚,为此他让我想点办法,我想几十条珊瑚鱼应该可以解决这个问题,因为珊瑚鱼平常以海底的浮游微生物为食,正好可以帮他清理水族箱里的浮游微生物.%s你可不可以帮帮老陈,给他抓60条红色珊瑚鱼.</string>
+<string name="taskstr_15_target">捕获60条2金币的红色珊瑚鱼</string>
+
+<string name="taskstr_16_title">小丑鱼的秘密</string>
+<string name="taskstr_16_desc">你知道吗?小丑鱼在海里通常和一种叫海葵的生物住在一起,海葵带毒的触手使得大多数鱼不敢接近,而小丑鱼有特殊的体表粘液,可保护它不受海葵的影响,有时海葵在受到某些鱼的攻击时,小丑鱼们甚至都会挺身而出保护海葵.%s有个倒霉的家伙今天不幸让海葵刺伤了,诊所里的王大夫想要12条小丑鱼来研究它们的体表粘液,万分火急！你能不能在8分钟里捕捉12条小丑鱼?</string>
+<string name="taskstr_16_target">在8分钟之内捕获12条10金币的小丑鱼</string>
+
+<string name="taskstr_17_title">美人鱼与朱朱</string>
+<string name="taskstr_17_desc">花店的朱朱是个爱幻想的女孩,她一直想看看传说中的美人鱼是什么样子,你能捕捉1条美人鱼吗?说实话我也非常想看看,我知道这非常需要运气,看到美人鱼已经很走运了,更别说抓住一条.</string>
+<string name="taskstr_17_target">捕获1条120金币的美人鱼</string>
+
+<string name="taskstr_18_title">捕捉鲨鱼</string>
+<string name="taskstr_18_desc">鲨鱼是海洋里最危险的动物之一,锤头鲨咬人事件也年年都发生,这几天海边出现了几条锤头鲨,警察局悬赏尽快捕捉锤头鲨,你能在10分钟内捉2条鲨鱼来吗?%s锤头鲨眼睛长在它奇怪的头上,使得它在海里的视野更为宽阔,因只要它的头一摇动甚至就能看到后面的动静,加上它本来就很灵敏的嗅觉,所以你捕捉的时候要特别的小心.</string>
+<string name="taskstr_18_target">在10分钟之内捕获2条100金币的鲨鱼</string>
+
+<string name="taskstr_19_title">危险的剑鱼</string>
+<string name="taskstr_19_desc">崔大炮:我的铁匠铺最近需要打造一批矛,但是材料不足,我想到剑鱼锋利的上颔可以用来做材料,但捕捉剑鱼是件很危险的活,我知道我付的报酬不足以换取你的剑鱼,但因为剑鱼肉也是非常美味的,所以我找了酒馆的厨师王老九,我们合伙向你买2条剑鱼,能帮我们这个忙吗?</string>
+<string name="taskstr_19_target">捕获2条70金币的剑鱼</string>
+
+<string name="taskstr_20_title">魔鬼鱼是魔鬼吗？</string>
+<string name="taskstr_20_desc">魔鬼鱼也叫蝠鲼,还有一种叫"鳐鱼"的和魔鬼鱼很象,可别搞混了,虽然名字叫魔鬼鱼,只是人们觉得它形状奇特吓人罢了,虽然它们长得很大,但没有什么攻击性,还喜欢被人类抚摸躯体,不过不要以为它好欺负,它的尾部暗藏着可怕的武器,一根锋利的毒刺.%s海洋馆有一条魔鬼鱼,似乎它挺孤独,你能帮海洋馆带4条魔鬼鱼给它作个伴吗?</string>
+<string name="taskstr_20_target">捕获4条60金币的魔鬼鱼</string>
+
+<string name="taskstr_21_title">深海鮟鱇鱼</string>
+<string name="taskstr_21_desc">你知道吗?鮟鱇鱼又叫"提灯女神",是因为只有雌性鮟鱇鱼才有头上那个灯笼,而雄性鮟鱇一般都吸附于雌性鮟鱇,一般是终身相附至死的,雌鮟鱇利用头上的"小灯笼"作诱饵捕食,它们生活在黑暗的海底,所以很容易诱使一些小鱼过来,但碰到危险就会把"小灯笼"放进嘴里.%s作坊里的常小弟想很了解一下"小灯笼"是怎么发光的,你可以在8分钟内抓6条鮟鱇鱼给他吗?</string>
+<string name="taskstr_21_target">在8分钟内捕获6条50金币的鮟鱇鱼</string>
+
+<string name="taskstr_22_title">海龟坐骑</string>
+<string name="taskstr_22_desc">杂货铺的马大妈突发奇想,想抓一只海龟训练成坐骑到海里逛逛,而且信誓旦旦地认为可行,我想她是不是玩魔兽世界入迷了?哈哈.%s说实话我也想看看能否真的有海龟坐骑,好吧,抓12只海龟来,或者我也拥有一只神气的海龟坐骑.</string>
+<string name="taskstr_22_target">捕获12只40金币的海龟</string>
+
+<string name="taskstr_23_title">一瓶朗姆酒</string>
+<string name="taskstr_23_desc">昨天去酒馆里喝酒时我和酒馆招待小蓉争吵起来,她非说美人鱼的尾巴在上陆地后会变成两条修长的腿,我当然不信,后来我们赌一瓶朗姆酒看谁能赢,这事得拜托你了,我们需要你在15分钟内抓2条美人鱼,并且带过来好看看谁能赢.%s不过就算输了也能看到长腿美女,哈哈.</string>
+<string name="taskstr_23_target">在15分钟之内捕获2条120金币的美人鱼</string>
+
+<string name="taskstr_24_title">莫名其妙的报酬</string>
+<string name="taskstr_24_desc">铁匠铺的崔大炮打造铁器的功夫非常棒,是十里八乡有名的铁匠,不过他要求的报酬也非常奇怪,不一定只要钱,今天我求他帮我做把刀,结果他问我要15条大蓝鱼,没有的话就不做.%s听说这种大蓝鱼只生活在深海里,而且不是很好捕捉,你可不可以帮我抓一些来?</string>
+<string name="taskstr_24_target">捕获15条30金币的大蓝鱼</string>
+
+<string name="taskstr_25_title">致命的水母</string>
+<string name="taskstr_25_desc">水母是种美丽的海洋生物,但它的触手上面布满了刺细胞,像毒丝一样,能够射出毒液,猎物被刺螫以后,会迅速麻痹,有的甚至死亡.而且水母一旦遇到猎物,从不轻易放过.%s最近海边发生了好几起水母伤人的事情,警察局悬赏捕捉水母,你要来试试吗?5分钟内捉到8只水母就够了.</string>
+<string name="taskstr_25_target">在5分钟之内捕获8只35金币的水母</string>
+
+<string name="taskstr_26_title">松鼠黄鱼</string>
+<string name="taskstr_26_desc">昨天我去饭馆吃了一道叫"松鼠黄鱼"的菜,啧啧,真是好味道,饭后我打听到这道菜是用海里的大黄鱼做的,大黄鱼可真是好东西,鱼肉不但鲜美,鱼鳔还可以干制成名贵食品"鱼肚",肝脏还是制造鱼肝油的好原料,还能入药,怎么样?帮我抓15条大黄鱼吧.%s还有你得记住,吃大黄鱼前后别喝茶,也别和荞麦一块吃,食物相克的哦,哮喘病人和过敏体质也最好少吃.</string>
+<string name="taskstr_26_target">捕获15条20金币的大黄鱼</string>
+
+<string name="taskstr_27_title">鮟鱇鱼的牙齿</string>
+<string name="taskstr_27_desc">常小弟：我的作坊需要几条鮟鱇鱼的牙齿作材料,就是那种头上顶了一盏灯笼的鱼,你能帮我捕抓点这种鱼吗?我想只要10条鮟鱇鱼就可以了.%s注意鮟鱇鱼锋利的牙齿,在抓它们的时候别让它给咬到了！</string>
+<string name="taskstr_27_target">捕获10条50金币的鮟鱇鱼</string>
+
+<string name="taskstr_28_title">超级大梳子</string>
+<string name="taskstr_28_desc">作坊的常小弟：我今天收到一个奇怪的订单,要做一支超级大的梳子,原材料目前只有海里的海龟壳可以用,客户要求的时间很紧急,你能在5分钟里帮我抓8只海龟来吗?%s要是你能答应的话我就有信心在客户规定的时间内做出这把梳子.</string>
+<string name="taskstr_28_target">在5分钟之内捕获8只40金币的海龟</string>
+
+<string name="taskstr_29_title">捕捉鲨鱼</string>
+<string name="taskstr_29_desc">鲨鱼是海洋里最危险的动物之一,锤头鲨咬人事件也年年都发生,这几天海边出现了几条锤头鲨,警察局悬赏尽快捕捉锤头鲨,你能在9分钟内捉2条鲨鱼来吗?%s锤头鲨眼睛长在它奇怪的头上,使得它在海里的视野更为宽阔,因只要它的头一摇动甚至就能看到后面的动静,加上它本来就很灵敏的嗅觉,所以你捕捉的时候要特别的小心.</string>
+<string name="taskstr_29_target">在9分钟之内捕获2条100金币的鲨鱼</string>
+
+<string name="taskstr_30_title">珊瑚清道夫</string>
+<string name="taskstr_30_desc">酒馆的老陈最近很烦恼,因为他总得清理他水族箱里的那座大珊瑚,为此他让我想点办法,我想珊瑚鱼应该可以解决这个问题,因为珊瑚鱼平常以海底的浮游微生物为食,正好可以帮他清理水族箱里的浮游微生物.%s你可不可以帮帮老陈,给他抓80条红色珊瑚鱼.</string>
+<string name="taskstr_30_target">捕获80条2金币的红色珊瑚鱼</string>
+
+<string name="taskstr_31_title">海上霸王</string>
+<string name="taskstr_31_desc">听说你在海上差点让一条虎鲸给撞翻了船,在海上碰到那种庞然大物没准备的话真是很危险,它们嘴巴细长、牙齿锋利、性情凶猛、报复心强、游动速度快,甚至鲨鱼都可能是它的盘中餐,它们还有个霸气的名字叫"逆戟鲸".%s我想研究一下这种被称作海中霸王的海洋动物,帮我抓2条虎鲸来吧.</string>
+<string name="taskstr_31_target">捕获2条150金币的虎鲸</string>
+
+<string name="taskstr_32_title">复仇之神</string>
+<string name="taskstr_32_desc">昨天有一名渔夫独自出海后被一群虎鲸袭击了,最后躲过一劫,回港后跟我说起这起恐惧的事件时,这名渔夫想起他曾经向一头虎鲸开过枪,由此便能理解他被袭击的原因,因为虎鲸的报复心极强,在有些地方甚至被称作"复仇之神".%s请帮帮那名渔夫吧,否则他一辈子都别想再出海了,在15分钟内捕捉2条虎鲸.</string>
+<string name="taskstr_32_target">在15分钟之内捕获2条150金币的虎鲸</string>
+
+<string name="taskstr_33_title">危险的剑鱼</string>
+<string name="taskstr_33_desc">崔大炮:我的铁匠铺最近需要打造一批矛,但是材料不足,我想到剑鱼锋利的上颔可以用来做材料,但捕捉剑鱼是件很危险的活,我知道我付的报酬不足以换取你的剑鱼,但因为剑鱼肉也是非常美味的,所以我找了酒馆的厨师王老九,我们合伙向你买3条剑鱼,能帮我们这个忙吗?</string>
+<string name="taskstr_33_target">捕获3条70金币的剑鱼</string>
+
+<string name="taskstr_34_title">魔鬼鱼是魔鬼吗？</string>
+<string name="taskstr_34_desc">魔鬼鱼也叫蝠鲼,还有一种叫"鳐鱼"的和魔鬼鱼很象,可别搞混了,虽然名字叫魔鬼鱼,只是人们觉得它形状奇特吓人罢了,虽然它们长得很大,但没有什么攻击性,还喜欢被人类抚摸躯体,不过不要以为它好欺负,它的尾部暗藏着可怕的武器,一根锋利的毒刺.%s海洋馆有一条魔鬼鱼,似乎它挺孤独,你能帮海洋馆带6条魔鬼鱼给它作个伴吗?</string>
+<string name="taskstr_34_target">捕获6条60金币的魔鬼鱼</string>
+
+<string name="taskstr_35_title">深海鮟鱇鱼</string>
+<string name="taskstr_35_desc">你知道吗?鮟鱇鱼又叫"提灯女神",是因为只有雌性鮟鱇鱼才有头上那个灯笼,而雄性鮟鱇一般都吸附于雌性鮟鱇,一般是终身相附至死的,雌鮟鱇利用头上的"小灯笼"作诱饵捕食,它们生活在黑暗的海底,所以很容易诱使一些小鱼过来,但碰到危险就会把"小灯笼"放进嘴里.%s作坊里的常小弟想很了解一下"小灯笼"是怎么发光的,你可以在8分钟内抓10条鮟鱇鱼给他吗?</string>
+<string name="taskstr_35_target">在8分钟内捕获10条50金币的鮟鱇鱼</string>
+
+<string name="taskstr_36_title">海龟坐骑</string>
+<string name="taskstr_36_desc">杂货铺的马大妈突发奇想,想抓一只海龟训练成坐骑到海里逛逛,而且信誓旦旦地认为可行,我想她是不是玩魔兽世界入迷了?哈哈.%s说实话我也想看看能否真的有海龟坐骑,好吧,抓24只海龟来,或者我也拥有一只神气的海龟坐骑.</string>
+<string name="taskstr_36_target">捕获24只40金币的海龟</string>
+
+<string name="taskstr_37_title">一瓶朗姆酒</string>
+<string name="taskstr_37_desc">昨天去酒馆里喝酒时我和酒馆招待小蓉争吵起来,她非说美人鱼的尾巴在上陆地后会变成两条修长的腿,我当然不信,后来我们赌一瓶朗姆酒看谁能赢,这事得拜托你了,我们需要你在10分钟内抓2条美人鱼,并且带过来好看看谁能赢.%s不过就算输了也能看到长腿美女,哈哈.</string>
+<string name="taskstr_37_target">在10分钟之内捕获2条120金币的美人鱼</string>
+
+<string name="taskstr_38_title">莫名其妙的报酬</string>
+<string name="taskstr_38_desc">铁匠铺的崔大炮打造铁器的功夫非常棒,是十里八乡有名的铁匠,不过他要求的报酬也非常奇怪,不一定只要钱,今天我求他帮我做把刀,结果他问我要20条大蓝鱼,没有的话就不做.%s听说这种大蓝鱼只生活在深海里,而且不是很好捕捉,你可不可以帮我抓一些来?</string>
+<string name="taskstr_38_target">捕获20条30金币的大蓝鱼</string>
+
+<string name="taskstr_39_title">致命的水母</string>
+<string name="taskstr_39_desc">水母是种美丽的海洋生物,但它的触手上面布满了刺细胞,像毒丝一样,能够射出毒液,猎物被刺螫以后,会迅速麻痹,有的甚至死亡.而且水母一旦遇到猎物,从不轻易放过.%s最近海边发生了好几起水母伤人的事情,警察局悬赏捕捉水母,你要来试试吗?5分钟内捉到12只就够了.</string>
+<string name="taskstr_39_target">在5分钟之内捕获12只35金币的水母</string>
+
+<string name="taskstr_40_title">松鼠黄鱼</string>
+<string name="taskstr_40_desc">昨天我去饭馆吃了一道叫"松鼠黄鱼"的菜,啧啧,真是好味道,饭后我打听到这道菜是用海里的大黄鱼做的,大黄鱼可真是好东西,鱼肉不但鲜美,鱼鳔还可以干制成名贵食品"鱼肚",肝脏还是制造鱼肝油的好原料,还能入药,怎么样?帮我抓20条大黄鱼吧.%s还有你得记住,吃大黄鱼前后别喝茶,也别和荞麦一块吃,食物相克的哦,哮喘病人和过敏体质也最好少吃.</string>
+<string name="taskstr_40_target">捕获20条20金币的大黄鱼</string>
+
+<string name="taskstr_41_title">鮟鱇鱼的牙齿</string>
+<string name="taskstr_41_desc">常小弟：我的作坊需要几条鮟鱇鱼的牙齿作材料,就是那种头上顶了一盏灯笼的鱼,你能帮我捕抓点这种鱼吗?我想只要18条鮟鱇鱼就可以了.%s注意鮟鱇鱼锋利的牙齿,在抓它们的时候别让它给咬到了！</string>
+<string name="taskstr_41_target">捕获18条50金币的鮟鱇鱼</string>
+
+<string name="taskstr_42_title">超级大梳子</string>
+<string name="taskstr_42_desc">作坊的常小弟：我今天收到一个奇怪的订单,要做一支超级大的梳子,原材料目前只有海里的海龟壳可以用,客户要求的时间很紧急,你能在8分钟里帮我抓12只海龟来吗?%s要是你能答应的话我就有信心在客户规定的时间内做出这把梳子.</string>
+<string name="taskstr_42_target">在8分钟之内捕获12只40金币的海龟</string>
+
+<string name="taskstr_43_title">捕捉鲨鱼</string>
+<string name="taskstr_43_desc">鲨鱼是海洋里最危险的动物之一,锤头鲨咬人事件也年年都发生,这几天海边出现了几条锤头鲨,警察局悬赏尽快捕捉锤头鲨,你能在8分钟内捉2条鲨鱼来吗?%s锤头鲨眼睛长在它奇怪的头上,使得它在海里的视野更为宽阔,因只要它的头一摇动甚至就能看到后面的动静,加上它本来就很灵敏的嗅觉,所以你捕捉的时候要特别的小心.</string>
+<string name="taskstr_43_target">在8分钟之内捕获2条100金币的鲨鱼</string>
+
+<string name="taskstr_44_title">珊瑚清道夫</string>
+<string name="taskstr_44_desc">酒馆的老陈最近很烦恼,因为他总得清理他水族箱里的那座大珊瑚,为此他让我想点办法,我想珊瑚鱼应该可以解决这个问题,因为珊瑚鱼平常以海底的浮游微生物为食,正好可以帮他清理水族箱里的浮游微生物.%s你可不可以帮帮老陈,给他抓120条红色珊瑚鱼.</string>
+<string name="taskstr_44_target">捕获120条2金币的红色珊瑚鱼</string>
+
+<string name="taskstr_45_title">奇怪的猫粮</string>
+<string name="taskstr_45_desc">杂货铺的马大妈养了一只珍贵的波斯猫,这只猫非常奇怪,只爱吃一种绿色的小鱼,平时马大妈都是在鱼店买鱼,但今天鱼店放假,你能帮马大妈抓80条小绿鱼吗?</string>
+<string name="taskstr_45_target">捕获80条4金币的小绿鱼</string>
+
+<string name="taskstr_46_title">小丑鱼的秘密</string>
+<string name="taskstr_46_desc">你知道吗?小丑鱼在海里通常和一种叫海葵的生物住在一起,海葵带毒的触手使得大多数鱼不敢接近,而小丑鱼有特殊的体表粘液,可保护它不受海葵的影响,有时海葵在受到某些鱼的攻击时,小丑鱼们甚至都会挺身而出保护海葵.%s有个倒霉的家伙今天不幸让海葵刺伤了,诊所里的王大夫想要20条小丑鱼来研究它们的体表粘液,万分火急！你能不能在8分钟里捕捉20条小丑鱼?</string>
+<string name="taskstr_46_target">在8分钟之内捕获20条10金币的小丑鱼</string>
+
+<string name="taskstr_47_title">一碗乌贼宽面</string>
+<string name="taskstr_47_desc">你知道王老九吗?他是饭馆里的主厨,厨艺不错,特别是煸茄子…（省略500字赞美）…%s抱歉话说远了啊,是这样的,昨天他告诉我乌贼味感鲜脆爽口,而且营养价值高,答应只要我送他12条乌贼就给我做一碗"乌贼宽面",结果昨天回家就把这事丢到脑后了,这我马上得去王老九那,你能不能帮我在8分钟内抓12条乌贼呀,我一定会报答你的.</string>
+<string name="taskstr_47_target">在8分钟之内捕获12条7金币的乌贼</string>
+
+<string name="taskstr_48_title">美人鱼与朱朱</string>
+<string name="taskstr_48_desc">花店的朱朱是个爱幻想的女孩,她一直想看看传说中的美人鱼是什么样子,你能捕捉2条美人鱼吗?说实话我也非常想看看,我知道这非常需要运气,看到美人鱼已经很走运了,更别说抓住一条.</string>
+<string name="taskstr_48_target">捕获2条120金币的美人鱼</string>
+
+<string name="taskstr_49_title">魔鬼鱼是魔鬼吗？</string>
+<string name="taskstr_49_desc">魔鬼鱼也叫蝠鲼,还有一种叫"鳐鱼"的和魔鬼鱼很象,可别搞混了,虽然名字叫魔鬼鱼,只是人们觉得它形状奇特吓人罢了,虽然它们长得很大,但没有什么攻击性,还喜欢被人类抚摸躯体,不过不要以为它好欺负,它的尾部暗藏着可怕的武器,一根锋利的毒刺.%s海洋馆有一条魔鬼鱼,似乎它挺孤独,你能在10分钟内帮海洋馆带2条魔鬼鱼给它作个伴吗?</string>
+<string name="taskstr_49_target">在10分钟之内捕获2条60金币的魔鬼鱼</string>
+
+<string name="taskstr_50_title">美人鱼与朱朱</string>
+<string name="taskstr_50_desc">花店的朱朱是个爱幻想的女孩,她一直想看看传说中的美人鱼是什么样子,你能在10分钟肉捕捉2条美人鱼吗?说实话我也非常想看看,我知道这非常需要运气,看到美人鱼已经很走运了,更别说抓住一条.</string>
+<string name="taskstr_50_target">在10分钟内捕获2条120金币的美人鱼</string>
+
+<string name="taskstr_51_title">魔鬼鱼是魔鬼吗？</string>
+<string name="taskstr_51_desc">魔鬼鱼也叫蝠鲼,还有一种叫"鳐鱼"的和魔鬼鱼很象,可别搞混了,虽然名字叫魔鬼鱼,只是人们觉得它形状奇特吓人罢了,虽然它们长得很大,但没有什么攻击性,还喜欢被人类抚摸躯体,不过不要以为它好欺负,它的尾部暗藏着可怕的武器,一根锋利的毒刺.%s海洋馆有一条魔鬼鱼,似乎它挺孤独,你能在8分钟内帮海洋馆带3条魔鬼鱼给它作个伴吗?</string>
+<string name="taskstr_51_target">在8分钟之内捕获3条60金币的魔鬼鱼</string>
+
+<string name="taskstr_52_title">危险的剑鱼</string>
+<string name="taskstr_52_desc">崔大炮:我的铁匠铺最近需要打造一批矛,但是材料不足,我想到剑鱼锋利的上颔可以用来做材料,但捕捉剑鱼是件很危险的活,我知道我付的报酬不足以换取你的剑鱼,但因为剑鱼肉也是非常美味的,所以我找了酒馆的厨师王老九,我们合伙向你买4条剑鱼,能帮我们这个忙吗?</string>
+<string name="taskstr_52_target">捕获4条70金币的剑鱼</string>
+
+<string name="taskstr_53_title">捕捉鲨鱼</string>
+<string name="taskstr_53_desc">鲨鱼是海洋里最危险的动物之一,锤头鲨咬人事件也年年都发生,这几天海边出现了几条锤头鲨,警察局悬赏尽快捕捉锤头鲨,你能在9分钟内捉2条鲨鱼来吗?%s锤头鲨眼睛长在它奇怪的头上,使得它在海里的视野更为宽阔,因只要它的头一摇动甚至就能看到后面的动静,加上它本来就很灵敏的嗅觉,所以你捕捉的时候要特别的小心.</string>
+<string name="taskstr_53_target">在9分钟之内捕获2条100金币的鲨鱼</string>
+
+<string name="taskstr_54_title">全能冠军</string>
+<string name="taskstr_54_desc">海洋动物的移动方式中,有在水底爬行的,有在水中游行的,还有甚至在空中滑翔飞行的,如果办个竞赛可能各有冠军,但爬,游,飞三项全能的鱼,唯独只有一种:豹鲂鮄,这种鱼它有着一对象飞机似的大翅膀,很多人都把它叫作"飞鱼",也是一种不好捕捉的鱼哦.</string>
+<string name="taskstr_54_target">捕获20条45金币的飞鱼</string>
+    
+    <string name="taskstr_55_title">剧毒的美味</string>
+    <string name="taskstr_55_desc">酒馆的王老九想要展示他家传的一道菜，但缺少一种主要的食材，那就是河豚，没错，有毒的那种鱼，不过做成美味可口的菜还需要复杂的加工，不用担心菜会有毒，他需要5条河豚。</string>
+    <string name="taskstr_55_target">捕获5条15金币的河豚</string>
+    
+    <string name="taskstr_56_title">剧毒的美味</string>
+    <string name="taskstr_56_desc">酒馆的王老九想要展示他家传的一道菜，但缺少一种主要的食材，那就是河豚，没错，有毒的那种鱼，不过做成美味可口的菜还需要复杂的加工，不用担心菜会有毒，他需要10条河豚。</string>
+    <string name="taskstr_56_target">捕获10条15金币的河豚</string>
+    
+    <string name="taskstr_57_title">剧毒的美味</string>
+    <string name="taskstr_57_desc">酒馆的王老九想要展示他家传的一道菜，但缺少一种主要的食材，那就是河豚，没错，有毒的那种鱼，不过做成美味可口的菜还需要复杂的加工，不用担心菜会有毒，他需要30条河豚。</string>
+    <string name="taskstr_57_target">捕获30条15金币的河豚</string>
+    
+    <string name="taskstr_58_title">剧毒的美味</string>
+    <string name="taskstr_58_desc">酒馆的王老九想要展示他家传的一道菜，但缺少一种主要的食材，那就是河豚，没错，有毒的那种鱼，不过做成美味可口的菜还需要复杂的加工，不用担心菜会有毒，他需要40条河豚。</string>
+    <string name="taskstr_58_target">捕获40条15金币的河豚</string>
+    
+    <string name="taskstr_59_title">聪明的海豚</string>
+    <string name="taskstr_59_desc">海豚是人类的朋友，它们十分乐意与人交往亲近，水族馆正准备训练一些海豚表演各种美妙的跳跃动作，你能帮忙捕捉1条海豚吗？</string>
+    <string name="taskstr_59_target">捕获1条90金币的海豚</string>
+    
+    <string name="taskstr_60_title">聪明的海豚</string>
+    <string name="taskstr_60_desc">海豚是人类的朋友，它们十分乐意与人交往亲近，水族馆正准备训练一些海豚表演各种美妙的跳跃动作，你能帮忙捕捉2条海豚吗？</string>
+    <string name="taskstr_60_target">捕获2条90金币的海豚</string>
+    
+    <string name="taskstr_61_title">聪明的海豚</string>
+    <string name="taskstr_61_desc">海豚是人类的朋友，它们十分乐意与人交往亲近，水族馆正准备训练一些海豚表演各种美妙的跳跃动作，你能帮忙捕捉3条海豚吗？</string>
+    <string name="taskstr_61_target">捕获3条90金币的海豚</string>
+    
+    <string name="taskstr_62_title">聪明的海豚</string>
+    <string name="taskstr_62_desc">海豚是人类的朋友，它们十分乐意与人交往亲近，水族馆正准备训练一些海豚表演各种美妙的跳跃动作，你能帮忙捕捉5条海豚吗？</string>
+    <string name="taskstr_62_target">捕获5条90金币的海豚</string>
+    
+    <!--成就部分-->
+    <string name="achievename_1_title">江湖小虾米</string>
+    <string name="achievedesc_1_desc">在游戏中累计时间超过1小时</string>
+    
+    <string name="achievename_2_title">捕鱼能手</string>
+    <string name="achievedesc_2_desc">在游戏中累计时间超过5个小时</string>
+    
+    <string name="achievename_3_title">洞庭泛舟客</string>
+    <string name="achievedesc_3_desc">在游戏中累计时间超过24小时</string>
+    
+    <string name="achievename_4_title">湘江摆渡人</string>
+    <string name="achievedesc_4_desc">在游戏中累计时间超过2天</string>
+    
+    <string name="achievename_5_title">潮州赶海</string>
+    <string name="achievedesc_5_desc">在游戏中累计时间超过5天</string>
+    
+    <string name="achievename_6_title">汕头听涛</string>
+    <string name="achievedesc_6_desc">在游戏中累计时间超过1周时间</string>
+    
+    <string name="achievename_7_title">Lv.10</string>
+    <string name="achievedesc_7_desc">恭喜！您的捕鱼等级达到10级</string>
+    
+    <string name="achievename_8_title">Lv.20</string>
+    <string name="achievedesc_8_desc">恭喜！您的捕鱼等级达到20级</string>
+    
+    <string name="achievename_9_title">Lv.30</string>
+    <string name="achievedesc_9_desc">恭喜！您的捕鱼等级达到30级</string>
+    
+    <string name="achievename_10_title">Lv.40</string>
+    <string name="achievedesc_10_desc">恭喜！您的捕鱼等级达到40级</string>
+    
+    <string name="achievename_11_title">Lv.50</string>
+    <string name="achievedesc_11_desc">恭喜！您的捕鱼等级达到50级</string>
+    
+    <string name="achievename_12_title">Lv.60</string>
+    <string name="achievedesc_12_desc">恭喜！您的捕鱼等级达到60级</string>
+    
+    <string name="achievename_13_title">Lv.70</string>
+    <string name="achievedesc_13_desc">恭喜！您的捕鱼等级达到70级</string>
+    
+    <string name="achievename_14_title">Lv.80</string>
+    <string name="achievedesc_14_desc">恭喜！您的捕鱼等级达到80级</string>
+    
+    <string name="achievename_15_title">海神！</string>
+    <string name="achievedesc_15_desc">恭喜！您的捕鱼等级达到90级</string>
+    
+    <string name="achievename_16_title">千金之躯</string>
+    <string name="achievedesc_16_desc">捕鱼累计获得的金币达到1000</string>
+    
+    <string name="achievename_17_title">万户候</string>
+    <string name="achievedesc_17_desc">捕鱼累计获得的金币达到10000</string>
+    
+    <string name="achievename_18_title">十万身家</string>
+    <string name="achievedesc_18_desc">捕鱼累计获得的金币达到100000</string>
+    
+    <string name="achievename_19_title">百万富翁</string>
+    <string name="achievedesc_19_desc">捕鱼累计获得的金币达到1000000</string>
+    
+    <string name="achievename_20_title">终级大款</string>
+    <string name="achievedesc_20_desc">捕鱼累计获得的金币达到10000000</string>
+    
+    <string name="achievename_21_title">千金洒尽还复来</string>
+    <string name="achievedesc_21_desc">累计消耗超过1000金币</string>
+    
+    <string name="achievename_22_title">万金油</string>
+    <string name="achievedesc_22_desc">累计消耗超过10000金币</string>
+    
+    <string name="achievename_23_title">花钱似流水</string>
+    <string name="achievedesc_23_desc">累计消耗超过100000金币</string>
+    
+    <string name="achievename_24_title">不差钱</string>
+    <string name="achievedesc_24_desc">累计消耗超过1000000金币</string>
+    
+    <string name="achievename_25_title">千万！千万不要</string>
+    <string name="achievedesc_25_desc">累计消耗超过10000000金币</string>
+    
+    <string name="achievename_26_title">5连击</string>
+    <string name="achievedesc_26_desc">连续5次发射的渔网都获得5个以上的金币</string>
+    
+    <string name="achievename_27_title">10连击</string>
+    <string name="achievedesc_27_desc">连续10次发射的渔网都获得超过5个金币</string>
+    
+    <string name="achievename_28_title">神枪手</string>
+    <string name="achievedesc_28_desc">连续15次发射的渔网都获得超过5个金币</string>
+    
+    <string name="achievename_29_title">弹无虚发</string>
+    <string name="achievedesc_29_desc">连续20次发射的渔网都获得超过5个金币</string>
+    
+    <string name="achievename_30_title">康宝达人</string>
+    <string name="achievedesc_30_desc">连续25次发射的渔网都获得超过5个金币</string>
+    
+    <string name="achievename_31_title">过江之卿</string>
+    <string name="achievedesc_31_desc">累计捕捉2000只1分小鱼</string>
+    
+    <string name="achievename_32_title">龟仙人</string>
+    <string name="achievedesc_32_desc">累计捕捉1000只40分乌龟</string>
+    
+    <string name="achievename_33_title">鲨鱼猎手</string>
+    <string name="achievedesc_33_desc">累计捕捉100条100分鲨鱼</string>
+    
+    <string name="achievename_34_title">还真是停电了</string>
+    <string name="achievedesc_34_desc">累计捕捉300条50分蹉魉鱼</string>
+    
+    <string name="achievename_35_title">乌贼是你的菜</string>
+    <string name="achievedesc_35_desc">累计捕捉300条7分乌贼</string>
+    
+    <string name="achievename_36_title">我在海底放风筝</string>
+    <string name="achievedesc_36_desc">累计捕捉200条60分魔鬼鱼</string>
+    
+    <string name="achievename_37_title">我爱美人鱼</string>
+    <string name="achievedesc_37_desc">累计捕捉50条120分美人鱼</string>
+    
+    <string name="achievename_38_title">你刺不破我的网</string>
+    <string name="achievedesc_38_desc">累计捕捉300条70分剑鱼</string>
+    
+    <string name="achievename_39_title">大家伙！</string>
+    <string name="achievedesc_39_desc">累计捕捉50条150分鲸鱼</string>
+    
+    <string name="achievename_40_title">危险动物</string>
+    <string name="achievedesc_40_desc">累计捕捉200条35分水母</string>
+    
+    <string name="achievename_41_title">狗屎运</string>
+    <string name="achievedesc_41_desc">1级炮打到鲨鱼</string>
+    
+    <string name="achievename_42_title">花落谁家</string>
+    <string name="achievedesc_42_desc">1级炮打到美人鱼</string>
+    
+    <string name="achievename_43_title">神之眷顾</string>
+    <string name="achievedesc_43_desc">1级炮打到鲸鱼</string>
+    
+    <string name="achievename_44_title">终于逮着你了</string>
+    <string name="achievedesc_44_desc">7级炮打到鲨鱼</string>
+    
+    <string name="achievename_45_title">你是我的！</string>
+    <string name="achievedesc_45_desc">8级炮打到美人鱼</string>
+    
+    <string name="achievename_46_title">你跑不了！</string>
+    <string name="achievedesc_46_desc">9级炮打到鲸鱼</string>
+    
+    <string name="achievename_47_title">临渊羡鱼</string>
+    <string name="achievedesc_47_desc">10炮发出，一无所获</string>
+    
+    <string name="achievename_48_title">钱财乃身外物</string>
+    <string name="achievedesc_48_desc">15炮发出，一无所获</string>
+    
+    <string name="achievename_49_title">你真慷慨</string>
+    <string name="achievedesc_49_desc">20炮发出，一无所获</string>
+    
+    <string name="achievename_50_title">请理智捕鱼</string>
+    <string name="achievedesc_50_desc">25炮发出，一无所获</string>
+    
+    <string name="achievename_51_title">激光挣着钱了</string>
+    <string name="achievedesc_51_desc">一道激光获得400以上的金币</string>
+    
+    <string name="achievename_52_title">激光靠得住</string>
+    <string name="achievedesc_52_desc">一道激光获得500以上的金币</string>
+    
+    <string name="achievename_53_title">奥特曼的激光</string>
+    <string name="achievedesc_53_desc">一道激光获得600以上的金币</string>
+    
+    <string name="achievename_54_title">任务达人</string>
+    <string name="achievedesc_54_desc">完成10个日常任务</string>
+    
+    <string name="achievename_55_title">任务狂人</string>
+    <string name="achievedesc_55_desc">完成30个日常任务</string>
+    
+    <string name="achievename_56_title">我的眼里只有鱼</string>
+    <string name="achievedesc_56_desc">完成100个日常任务</string>
+    
+    <string name="achievename_57_title">三花聚顶</string>
+    <string name="achievedesc_57_desc">同一个渔网打到3种鱼</string>
+    
+    <string name="achievename_58_title">四海承风</string>
+    <string name="achievedesc_58_desc">同一个渔网打到4种鱼</string>
+    
+    <string name="achievename_59_title">五气朝元</string>
+    <string name="achievedesc_59_desc">同一个渔网打到5种鱼</string>
+    
+    <string name="achievename_60_title">六根清净</string>
+    <string name="achievedesc_60_desc">同一个渔网打到6种鱼</string>
+    
+    <string name="achievename_61_title">七擒七纵 </string>
+    <string name="achievedesc_61_desc">同一个渔网打到7种鱼</string>
+    
+    <string name="achievename_62_title">八面威风</string>
+    <string name="achievedesc_62_desc">同一个渔网打到8种鱼</string>
+    
+    <string name="achievename_63_title">三阳开泰</string>
+    <string name="achievedesc_63_desc">同一个渔网打到3条鱼</string>
+    
+    <string name="achievename_64_title">四季发财</string>
+    <string name="achievedesc_64_desc">同一个渔网打到4条鱼</string>
+    
+    <string name="achievename_65_title">五谷丰登</string>
+    <string name="achievedesc_65_desc">同一个渔网打到5条鱼</string>
+    
+    <string name="achievename_66_title">六六大顺</string>
+    <string name="achievedesc_66_desc">同一个渔网打到6条鱼</string>
+    
+    <string name="achievename_67_title">七雄逐鹿</string>
+    <string name="achievedesc_67_desc">同一个渔网打到7条鱼</string>
+    
+    <string name="achievename_68_title">八仙过海</string>
+    <string name="achievedesc_68_desc">同一个渔网打到8条鱼</string>
+    
+    <string name="achievename_69_title">九死一生</string>
+    <string name="achievedesc_69_desc">同一个渔网打到9条鱼</string>
+    
+    <string name="achievename_70_title">十全十美</string>
+    <string name="achievedesc_70_desc">同一个渔网打到10条鱼</string>
+    
+    <string name="achievename_71_title">雷震子</string>
+    <string name="achievedesc_71_desc">一个鱼雷获得300以上的金币</string>
+    
+    <string name="achievename_72_title">雷公</string>
+    <string name="achievedesc_72_desc">一个鱼雷获得350以上的金币</string>
+    
+    <string name="achievename_73_title">雷霆王</string>
+    <string name="achievedesc_73_desc">一个鱼雷获得400以上的金币</string>
+    
+    <string name="achievename_74_title">天雷地网</string>
+    <string name="achievedesc_74_desc">一个鱼雷获得450以上的金币</string>
+    
+    <string name="achievename_75_title">五雷轰顶</string>
+    <string name="achievedesc_75_desc">一个鱼雷获得500以上的金币</string>
+    
+    <string name="achievename_76_title">请叫我雷人</string>
+    <string name="achievedesc_76_desc">一个鱼雷获得600以上的金币</string>
+    
+    <string name="achievename_77_title">蟾宫折桂</string>
+    <string name="achievedesc_77_desc">累计捕捉50只黄金蛙怪</string>
+    
+    <string name="achievename_78_title">家有宠物</string>
+    <string name="achievedesc_78_desc">带着你的宠物开始捕鱼</string>
+    
+    <string name="achievename_79_title">宠物狂想曲</string>
+    <string name="achievedesc_79_desc">宠物升到10级</string>
+    
+    <string name="achievename_80_title">宠物收集者</string>
+    <string name="achievedesc_80_desc">成功召唤四种宠物</string>
+    
+    <string name="achievename_81_title">宠物达人</string>
+    <string name="achievedesc_81_desc">四种宠物的等级都到10级</string>
+    
+    <string name="achievename_82_title">闪电之怒</string>
+    <string name="achievedesc_82_desc">一个闪电炮获得400以上的金币</string>
+    
+    <string name="achievename_83_title">潮鸣电掣</string>
+    <string name="achievedesc_83_desc">一个闪电炮获得500以上金币</string>
+    
+    <string name="achievename_84_title">雷神归来</string>
+    <string name="achievedesc_84_desc">一个闪电炮获得600以上金币</string>
+    
+    <string name="achievename_85_title">电击术</string>
+    <string name="achievedesc_85_desc">一个闪电炮命中20个目标</string>
+    
+    <string name="achievename_86_title">无尽之电</string>
+    <string name="achievedesc_86_desc">一个闪电炮命中30个目标</string>
+    
+    <string name="achievename_87_title">蝴蝶儿飞呀飞</string>
+    <string name="achievedesc_87_desc">累计捕捉300条45分飞鱼</string>
+    
+    <string name="achievename_88_title">大圆满</string>
+    <string name="achievedesc_88_desc">恭喜！您的捕鱼等级达到99级</string>
+    
+    <string name="achievename_89_title">天上掉下个黄金电</string>
+    <string name="achievedesc_89_desc">1级炮打到黄金龟</string>
+    
+    <string name="achievename_90_title">海贼的宝藏</string>
+    <string name="achievedesc_90_desc">用鱼网捞到一个宝箱</string>
+    
+    <string name="achievename_91_title">海豚湾</string>
+    <string name="achievedesc_91_desc">累计捕捉100条90分海豚</string>
+
+    <string name="achievename_92_title">天翻地覆</string>
+    <string name="achievedesc_92_desc">一个原子炮获得1000以上金币</string>
+    
+    <string name="achievename_93_title">末日审判</string>
+    <string name="achievedesc_93_desc">一个原子炮获得1200以上金币</string>
+    
+    <string name="achievename_94_title">正是河豚欲上时</string>
+    <string name="achievedesc_94_desc">累计捕捉300条15分河豚</string>
+    <string name="confirm_buy_fish">确定花费%d金币购买该鱼种吗？</string>
+    <string name="buy_fish_coins_notenough">抱歉，你的金币不足！</string>
+    
+</resources>
